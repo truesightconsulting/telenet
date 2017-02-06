@@ -1,0 +1,15 @@
+"bdgt_id","dma1_name","chan2_name","chan1_name","client_id","chan2_id","chan1_id","dma1_id","sp_min_h","percent_max","sp_max_h"
+"211_183_146","National","Double Click Banner","Online Display",44,211,183,146,NULL,NULL,NULL
+"212_368_146","National","Acquisition","Outbound Calls",44,212,368,146,NULL,NULL,NULL
+"213_181_146","National","Connectivity","Television",44,213,181,146,NULL,NULL,NULL
+"213_187_146","National","Connectivity","Outdoor",44,213,187,146,NULL,NULL,NULL
+"213_369_146","National","Connectivity","DoortoDoor",44,213,369,146,NULL,NULL,NULL
+"213_370_146","National","Connectivity","Dailies",44,213,370,146,NULL,NULL,NULL
+"213_371_146","National","Connectivity","Facebook",44,213,371,146,NULL,NULL,NULL
+"213_72_146","National","Connectivity","Radio",44,213,72,146,NULL,NULL,NULL
+"214_354_146","National","Unbranded","Search",44,214,354,146,NULL,NULL,NULL
+"215_368_146","National","Cross Sell","Outbound Calls",44,215,368,146,NULL,NULL,NULL
+"215_372_146","National","Cross Sell","Direct Marketing",44,215,372,146,NULL,NULL,NULL
+"216_183_146","National","Double Click Video","Online Display",44,216,183,146,NULL,NULL,NULL
+"217_368_146","National","Upsell","Outbound Calls",44,217,368,146,NULL,NULL,NULL
+"217_372_146","National","Upsell","Direct Marketing",44,217,372,146,NULL,NULL,NULL
