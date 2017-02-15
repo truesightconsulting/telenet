@@ -3,7 +3,7 @@ update,y
 client_name,Telenet
 r_path,/home/rstudio/nviz/telenet/
 general_message,NULL
-calendar,2
+calendar,1
 pace,2500
 goal_check,1
 bdgt_dim,"chan2_id,chan1_id,dma1_id"
