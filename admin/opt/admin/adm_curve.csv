@@ -43,8 +43,8 @@ National,Television,Connectivity,Cross-Sell Mobile,603,248.8557301,0.004576847,w
 National,Television,Connectivity,Acquisition Internet Only,603,47.14294388,0.020921511,weekly,overall
 National,Television,Connectivity,Acquisition DTV - TV only,603,84.41646491,0.016394179,weekly,overall
 National,Television,Connectivity,Up-Sell Whop to Whoppa,603,46.16985402,0.007824497,weekly,overall
-National,Base,Acquisition Bundles,Acquisition Bundles,1,41100,10,weekly,overall
-National,Base,Cross-Sell Mobile,Cross-Sell Mobile,1,41100,10,weekly,overall
-National,Base,Acquisition Internet Only,Acquisition Internet Only,1,41100,10,weekly,overall
-National,Base,Acquisition DTV - TV only,Acquisition DTV - TV only,1,41100,10,weekly,overall
-National,Base,Up-Sell Whop to Whoppa,Up-Sell Whop to Whoppa,1,41100,10,weekly,overall
+National,Base,Acquisition Bundles,Acquisition Bundles,1,4110000,10,weekly,overall
+National,Base,Cross-Sell Mobile,Cross-Sell Mobile,1,4110000,10,weekly,overall
+National,Base,Acquisition Internet Only,Acquisition Internet Only,1,4110000,10,weekly,overall
+National,Base,Acquisition DTV - TV only,Acquisition DTV - TV only,1,4110000,10,weekly,overall
+National,Base,Up-Sell Whop to Whoppa,Up-Sell Whop to Whoppa,1,4110000,10,weekly,overall
