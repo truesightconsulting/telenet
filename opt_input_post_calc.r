@@ -31,7 +31,7 @@ f_eff=c("spend/decomp","spend_start/decomp_start","value/spend","value_start/spe
 
 # existing var
 metric_reg=c("spend","decomp","value","spend_start","decomp_start","value_start")
-name_reg=c("Spend","Accounts","Value","Planned Spend","Planned Accounts","Planned Value")
+name_reg=c("Spend","Accounts","Revenue","Planned Spend","Planned Accounts","Planned Revenue")
 
 # table column order 
 order_all=c("spend","decomp","value","eff1","eff2","spend_start","decomp_start","value_start","eff1_start","eff2_start")
