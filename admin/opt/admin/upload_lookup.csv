@@ -48,6 +48,7 @@
 "Churn mobile","Churn mobile","Base","National"
 "Churn mobile","Connectivity","Facebook","National"
 "Churn mobile","Connectivity","Television","National"
+"Churn mobile","Connectivity_Acquisition","Email","National"
 "Churn mobile","Connectivity_Retention","Direct Marketing","National"
 "Churn mobile","Connectivity_Retention","Outbound Calls","National"
 "Churn mobile","Connectivity_Unbranded","Search","National"
