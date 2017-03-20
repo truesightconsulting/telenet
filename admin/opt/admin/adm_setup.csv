@@ -4,7 +4,7 @@ client_name,Telenet
 r_path,/home/rstudio/nviz/telenet/
 general_message,NULL
 calendar,1
-pace,2500
+pace,1000
 goal_check,1
 bdgt_dim,"chan2_id,chan1_id,dma1_id,week_id"
 event_dim,"chan2_id,chan1_id,dma1_id,sales1_id"
