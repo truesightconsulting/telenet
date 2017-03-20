@@ -105,9 +105,9 @@ Acquisition Play More,Online Display,Entertainment_Video,overall,0.866433976,0.1
 Acquisition Play More,DoortoDoor,Connectivity,overall,1.732867951,0.1,58935.99363,1,1,National,50716.16758,28.09524476
 Acquisition Play More,Search,Entertainment_Unbranded,overall,1.824071528,0.5,3434.05,1,1,National,1512.733158,8.58169565
 Acquisition Play More,Direct Marketing,Entertainment_Acquisition,overall,6.931471806,0.6,235059.5,1,1,National,80647.28462,30.12204864
-Churn entertainment,Television,Connectivity,overall,0.01,0.6,372506.9471,1,1,National,113157.5054,93.55942641
+Churn entertainment,Television,Entertainment,overall,0.01,0.6,367541.6052,1,1,National,94125.61789,138.3899849
 Churn entertainment,Search,Entertainment_Unbranded,overall,3,0.05,3434.05,1,1,National,1512.733158,61.42633587
 Churn entertainment,Facebook,Entertainment,overall,0.01,0.05,27102.71,1,1,National,7370.038065,71.19285864
-Churn entertainment,Online Display,Connectivity_Video,overall,3,0.05,50010.4,1,1,National,40675.35851,368.7923339
+Churn entertainment,Online Display,Entertainment_Video,overall,3,0.05,50010.4,1,1,National,17330.64541,280.9846353
 Churn entertainment,Direct Marketing,Entertainment_Retention,overall,0.01,0.05,76295.7,1,1,National,21114.28077,16.41357027
 Churn entertainment,Outbound Calls,Entertainment_Retention,overall,0.01,0.05,23472.75,1,1,National,11148.9,44.32343021
