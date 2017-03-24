@@ -675,3 +675,367 @@ week_id,sales1_name,factor
 50,Churn entertainment,1
 51,Churn entertainment,1
 52,Churn entertainment,1
+1,Acquisition - Postpaid - North,1
+2,Acquisition - Postpaid - North,1
+3,Acquisition - Postpaid - North,1
+4,Acquisition - Postpaid - North,1
+5,Acquisition - Postpaid - North,1
+6,Acquisition - Postpaid - North,1
+7,Acquisition - Postpaid - North,1
+8,Acquisition - Postpaid - North,1
+9,Acquisition - Postpaid - North,1
+10,Acquisition - Postpaid - North,1
+11,Acquisition - Postpaid - North,1
+12,Acquisition - Postpaid - North,1
+13,Acquisition - Postpaid - North,1
+14,Acquisition - Postpaid - North,1
+15,Acquisition - Postpaid - North,1
+16,Acquisition - Postpaid - North,1
+17,Acquisition - Postpaid - North,1
+18,Acquisition - Postpaid - North,1
+19,Acquisition - Postpaid - North,1
+20,Acquisition - Postpaid - North,1
+21,Acquisition - Postpaid - North,1
+22,Acquisition - Postpaid - North,1
+23,Acquisition - Postpaid - North,1
+24,Acquisition - Postpaid - North,1
+25,Acquisition - Postpaid - North,1
+26,Acquisition - Postpaid - North,1
+27,Acquisition - Postpaid - North,1
+28,Acquisition - Postpaid - North,1
+29,Acquisition - Postpaid - North,1
+30,Acquisition - Postpaid - North,1
+31,Acquisition - Postpaid - North,1
+32,Acquisition - Postpaid - North,1
+33,Acquisition - Postpaid - North,1
+34,Acquisition - Postpaid - North,1
+35,Acquisition - Postpaid - North,1
+36,Acquisition - Postpaid - North,1
+37,Acquisition - Postpaid - North,1
+38,Acquisition - Postpaid - North,1
+39,Acquisition - Postpaid - North,1
+40,Acquisition - Postpaid - North,1
+41,Acquisition - Postpaid - North,1
+42,Acquisition - Postpaid - North,1
+43,Acquisition - Postpaid - North,1
+44,Acquisition - Postpaid - North,1
+45,Acquisition - Postpaid - North,1
+46,Acquisition - Postpaid - North,1
+47,Acquisition - Postpaid - North,1
+48,Acquisition - Postpaid - North,1
+49,Acquisition - Postpaid - North,1
+50,Acquisition - Postpaid - North,1
+51,Acquisition - Postpaid - North,1
+52,Acquisition - Postpaid - North,1
+1,Acquisition - Postpaid - South,1
+2,Acquisition - Postpaid - South,1
+3,Acquisition - Postpaid - South,1
+4,Acquisition - Postpaid - South,1
+5,Acquisition - Postpaid - South,1
+6,Acquisition - Postpaid - South,1
+7,Acquisition - Postpaid - South,1
+8,Acquisition - Postpaid - South,1
+9,Acquisition - Postpaid - South,1
+10,Acquisition - Postpaid - South,1
+11,Acquisition - Postpaid - South,1
+12,Acquisition - Postpaid - South,1
+13,Acquisition - Postpaid - South,1
+14,Acquisition - Postpaid - South,1
+15,Acquisition - Postpaid - South,1
+16,Acquisition - Postpaid - South,1
+17,Acquisition - Postpaid - South,1
+18,Acquisition - Postpaid - South,1
+19,Acquisition - Postpaid - South,1
+20,Acquisition - Postpaid - South,1
+21,Acquisition - Postpaid - South,1
+22,Acquisition - Postpaid - South,1
+23,Acquisition - Postpaid - South,1
+24,Acquisition - Postpaid - South,1
+25,Acquisition - Postpaid - South,1
+26,Acquisition - Postpaid - South,1
+27,Acquisition - Postpaid - South,1
+28,Acquisition - Postpaid - South,1
+29,Acquisition - Postpaid - South,1
+30,Acquisition - Postpaid - South,1
+31,Acquisition - Postpaid - South,1
+32,Acquisition - Postpaid - South,1
+33,Acquisition - Postpaid - South,1
+34,Acquisition - Postpaid - South,1
+35,Acquisition - Postpaid - South,1
+36,Acquisition - Postpaid - South,1
+37,Acquisition - Postpaid - South,1
+38,Acquisition - Postpaid - South,1
+39,Acquisition - Postpaid - South,1
+40,Acquisition - Postpaid - South,1
+41,Acquisition - Postpaid - South,1
+42,Acquisition - Postpaid - South,1
+43,Acquisition - Postpaid - South,1
+44,Acquisition - Postpaid - South,1
+45,Acquisition - Postpaid - South,1
+46,Acquisition - Postpaid - South,1
+47,Acquisition - Postpaid - South,1
+48,Acquisition - Postpaid - South,1
+49,Acquisition - Postpaid - South,1
+50,Acquisition - Postpaid - South,1
+51,Acquisition - Postpaid - South,1
+52,Acquisition - Postpaid - South,1
+1,Acquisition - Prepaid,1
+2,Acquisition - Prepaid,1
+3,Acquisition - Prepaid,1
+4,Acquisition - Prepaid,1
+5,Acquisition - Prepaid,1
+6,Acquisition - Prepaid,1
+7,Acquisition - Prepaid,1
+8,Acquisition - Prepaid,1
+9,Acquisition - Prepaid,1
+10,Acquisition - Prepaid,1
+11,Acquisition - Prepaid,1
+12,Acquisition - Prepaid,1
+13,Acquisition - Prepaid,1
+14,Acquisition - Prepaid,1
+15,Acquisition - Prepaid,1
+16,Acquisition - Prepaid,1
+17,Acquisition - Prepaid,1
+18,Acquisition - Prepaid,1
+19,Acquisition - Prepaid,1
+20,Acquisition - Prepaid,1
+21,Acquisition - Prepaid,1
+22,Acquisition - Prepaid,1
+23,Acquisition - Prepaid,1
+24,Acquisition - Prepaid,1
+25,Acquisition - Prepaid,1
+26,Acquisition - Prepaid,1
+27,Acquisition - Prepaid,1
+28,Acquisition - Prepaid,1
+29,Acquisition - Prepaid,1
+30,Acquisition - Prepaid,1
+31,Acquisition - Prepaid,1
+32,Acquisition - Prepaid,1
+33,Acquisition - Prepaid,1
+34,Acquisition - Prepaid,1
+35,Acquisition - Prepaid,1
+36,Acquisition - Prepaid,1
+37,Acquisition - Prepaid,1
+38,Acquisition - Prepaid,1
+39,Acquisition - Prepaid,1
+40,Acquisition - Prepaid,1
+41,Acquisition - Prepaid,1
+42,Acquisition - Prepaid,1
+43,Acquisition - Prepaid,1
+44,Acquisition - Prepaid,1
+45,Acquisition - Prepaid,1
+46,Acquisition - Prepaid,1
+47,Acquisition - Prepaid,1
+48,Acquisition - Prepaid,1
+49,Acquisition - Prepaid,1
+50,Acquisition - Prepaid,1
+51,Acquisition - Prepaid,1
+52,Acquisition - Prepaid,1
+1,Churn - Postpaid - South,1
+2,Churn - Postpaid - South,1
+3,Churn - Postpaid - South,1
+4,Churn - Postpaid - South,1
+5,Churn - Postpaid - South,1
+6,Churn - Postpaid - South,1
+7,Churn - Postpaid - South,1
+8,Churn - Postpaid - South,1
+9,Churn - Postpaid - South,1
+10,Churn - Postpaid - South,1
+11,Churn - Postpaid - South,1
+12,Churn - Postpaid - South,1
+13,Churn - Postpaid - South,1
+14,Churn - Postpaid - South,1
+15,Churn - Postpaid - South,1
+16,Churn - Postpaid - South,1
+17,Churn - Postpaid - South,1
+18,Churn - Postpaid - South,1
+19,Churn - Postpaid - South,1
+20,Churn - Postpaid - South,1
+21,Churn - Postpaid - South,1
+22,Churn - Postpaid - South,1
+23,Churn - Postpaid - South,1
+24,Churn - Postpaid - South,1
+25,Churn - Postpaid - South,1
+26,Churn - Postpaid - South,1
+27,Churn - Postpaid - South,1
+28,Churn - Postpaid - South,1
+29,Churn - Postpaid - South,1
+30,Churn - Postpaid - South,1
+31,Churn - Postpaid - South,1
+32,Churn - Postpaid - South,1
+33,Churn - Postpaid - South,1
+34,Churn - Postpaid - South,1
+35,Churn - Postpaid - South,1
+36,Churn - Postpaid - South,1
+37,Churn - Postpaid - South,1
+38,Churn - Postpaid - South,1
+39,Churn - Postpaid - South,1
+40,Churn - Postpaid - South,1
+41,Churn - Postpaid - South,1
+42,Churn - Postpaid - South,1
+43,Churn - Postpaid - South,1
+44,Churn - Postpaid - South,1
+45,Churn - Postpaid - South,1
+46,Churn - Postpaid - South,1
+47,Churn - Postpaid - South,1
+48,Churn - Postpaid - South,1
+49,Churn - Postpaid - South,1
+50,Churn - Postpaid - South,1
+51,Churn - Postpaid - South,1
+52,Churn - Postpaid - South,1
+1,Churn - Postpaid - North,1
+2,Churn - Postpaid - North,1
+3,Churn - Postpaid - North,1
+4,Churn - Postpaid - North,1
+5,Churn - Postpaid - North,1
+6,Churn - Postpaid - North,1
+7,Churn - Postpaid - North,1
+8,Churn - Postpaid - North,1
+9,Churn - Postpaid - North,1
+10,Churn - Postpaid - North,1
+11,Churn - Postpaid - North,1
+12,Churn - Postpaid - North,1
+13,Churn - Postpaid - North,1
+14,Churn - Postpaid - North,1
+15,Churn - Postpaid - North,1
+16,Churn - Postpaid - North,1
+17,Churn - Postpaid - North,1
+18,Churn - Postpaid - North,1
+19,Churn - Postpaid - North,1
+20,Churn - Postpaid - North,1
+21,Churn - Postpaid - North,1
+22,Churn - Postpaid - North,1
+23,Churn - Postpaid - North,1
+24,Churn - Postpaid - North,1
+25,Churn - Postpaid - North,1
+26,Churn - Postpaid - North,1
+27,Churn - Postpaid - North,1
+28,Churn - Postpaid - North,1
+29,Churn - Postpaid - North,1
+30,Churn - Postpaid - North,1
+31,Churn - Postpaid - North,1
+32,Churn - Postpaid - North,1
+33,Churn - Postpaid - North,1
+34,Churn - Postpaid - North,1
+35,Churn - Postpaid - North,1
+36,Churn - Postpaid - North,1
+37,Churn - Postpaid - North,1
+38,Churn - Postpaid - North,1
+39,Churn - Postpaid - North,1
+40,Churn - Postpaid - North,1
+41,Churn - Postpaid - North,1
+42,Churn - Postpaid - North,1
+43,Churn - Postpaid - North,1
+44,Churn - Postpaid - North,1
+45,Churn - Postpaid - North,1
+46,Churn - Postpaid - North,1
+47,Churn - Postpaid - North,1
+48,Churn - Postpaid - North,1
+49,Churn - Postpaid - North,1
+50,Churn - Postpaid - North,1
+51,Churn - Postpaid - North,1
+52,Churn - Postpaid - North,1
+1,Prepaid to Postpaid - North,1
+2,Prepaid to Postpaid - North,1
+3,Prepaid to Postpaid - North,1
+4,Prepaid to Postpaid - North,1
+5,Prepaid to Postpaid - North,1
+6,Prepaid to Postpaid - North,1
+7,Prepaid to Postpaid - North,1
+8,Prepaid to Postpaid - North,1
+9,Prepaid to Postpaid - North,1
+10,Prepaid to Postpaid - North,1
+11,Prepaid to Postpaid - North,1
+12,Prepaid to Postpaid - North,1
+13,Prepaid to Postpaid - North,1
+14,Prepaid to Postpaid - North,1
+15,Prepaid to Postpaid - North,1
+16,Prepaid to Postpaid - North,1
+17,Prepaid to Postpaid - North,1
+18,Prepaid to Postpaid - North,1
+19,Prepaid to Postpaid - North,1
+20,Prepaid to Postpaid - North,1
+21,Prepaid to Postpaid - North,1
+22,Prepaid to Postpaid - North,1
+23,Prepaid to Postpaid - North,1
+24,Prepaid to Postpaid - North,1
+25,Prepaid to Postpaid - North,1
+26,Prepaid to Postpaid - North,1
+27,Prepaid to Postpaid - North,1
+28,Prepaid to Postpaid - North,1
+29,Prepaid to Postpaid - North,1
+30,Prepaid to Postpaid - North,1
+31,Prepaid to Postpaid - North,1
+32,Prepaid to Postpaid - North,1
+33,Prepaid to Postpaid - North,1
+34,Prepaid to Postpaid - North,1
+35,Prepaid to Postpaid - North,1
+36,Prepaid to Postpaid - North,1
+37,Prepaid to Postpaid - North,1
+38,Prepaid to Postpaid - North,1
+39,Prepaid to Postpaid - North,1
+40,Prepaid to Postpaid - North,1
+41,Prepaid to Postpaid - North,1
+42,Prepaid to Postpaid - North,1
+43,Prepaid to Postpaid - North,1
+44,Prepaid to Postpaid - North,1
+45,Prepaid to Postpaid - North,1
+46,Prepaid to Postpaid - North,1
+47,Prepaid to Postpaid - North,1
+48,Prepaid to Postpaid - North,1
+49,Prepaid to Postpaid - North,1
+50,Prepaid to Postpaid - North,1
+51,Prepaid to Postpaid - North,1
+52,Prepaid to Postpaid - North,1
+1,Prepaid to Postpaid - South,1
+2,Prepaid to Postpaid - South,1
+3,Prepaid to Postpaid - South,1
+4,Prepaid to Postpaid - South,1
+5,Prepaid to Postpaid - South,1
+6,Prepaid to Postpaid - South,1
+7,Prepaid to Postpaid - South,1
+8,Prepaid to Postpaid - South,1
+9,Prepaid to Postpaid - South,1
+10,Prepaid to Postpaid - South,1
+11,Prepaid to Postpaid - South,1
+12,Prepaid to Postpaid - South,1
+13,Prepaid to Postpaid - South,1
+14,Prepaid to Postpaid - South,1
+15,Prepaid to Postpaid - South,1
+16,Prepaid to Postpaid - South,1
+17,Prepaid to Postpaid - South,1
+18,Prepaid to Postpaid - South,1
+19,Prepaid to Postpaid - South,1
+20,Prepaid to Postpaid - South,1
+21,Prepaid to Postpaid - South,1
+22,Prepaid to Postpaid - South,1
+23,Prepaid to Postpaid - South,1
+24,Prepaid to Postpaid - South,1
+25,Prepaid to Postpaid - South,1
+26,Prepaid to Postpaid - South,1
+27,Prepaid to Postpaid - South,1
+28,Prepaid to Postpaid - South,1
+29,Prepaid to Postpaid - South,1
+30,Prepaid to Postpaid - South,1
+31,Prepaid to Postpaid - South,1
+32,Prepaid to Postpaid - South,1
+33,Prepaid to Postpaid - South,1
+34,Prepaid to Postpaid - South,1
+35,Prepaid to Postpaid - South,1
+36,Prepaid to Postpaid - South,1
+37,Prepaid to Postpaid - South,1
+38,Prepaid to Postpaid - South,1
+39,Prepaid to Postpaid - South,1
+40,Prepaid to Postpaid - South,1
+41,Prepaid to Postpaid - South,1
+42,Prepaid to Postpaid - South,1
+43,Prepaid to Postpaid - South,1
+44,Prepaid to Postpaid - South,1
+45,Prepaid to Postpaid - South,1
+46,Prepaid to Postpaid - South,1
+47,Prepaid to Postpaid - South,1
+48,Prepaid to Postpaid - South,1
+49,Prepaid to Postpaid - South,1
+50,Prepaid to Postpaid - South,1
+51,Prepaid to Postpaid - South,1
+52,Prepaid to Postpaid - South,1
