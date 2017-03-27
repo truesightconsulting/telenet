@@ -110,45 +110,45 @@ ENT_Churn,Facebook,Entertainment,overall,0.01,0.05,27102.71,1,1,National,7370.03
 ENT_Churn,Online Display,Entertainment_Video,overall,3,0.05,50010.4,1,1,National,17330.64541,280.9846353
 ENT_Churn,Direct Marketing,Entertainment_Retention,overall,0.01,0.05,76295.7,1,1,National,21114.28077,16.41357027
 ENT_Churn,Outbound Calls,Entertainment_Retention,overall,0.01,0.05,23472.75,1,1,National,11148.9,44.32343021
-BASE_Acquisition_Postpaid_North,Television,North,overall,3.465735903,0.9,93145.61509,1,1,National,63372.84308,1058.613097
-BASE_Acquisition_Postpaid_North,Radio,North,overall,1.386294361,0.2,72902.21902,1,1,National,52994.81349,687.2374523
-BASE_Acquisition_Postpaid_North,Print,North,overall,2.310490602,0.3,41907.74733,1,1,National,10978.32934,625.8237359
-BASE_Acquisition_Postpaid_North,Promotion,National,overall,0.01,0.01,473793.995,1,1,National,134969.9527,125.5774483
-BASE_Acquisition_Postpaid_North,Outdoor,North,overall,1.732867951,0.9,60410.63835,1,1,National,23067.15874,26.79471034
-BASE_Acquisition_Postpaid_North,Unbranded Search,North,overall,0.770163534,0.35,5580.58,1,1,National,1935.072718,179.0806529
-BASE_Acquisition_Postpaid_South,Outdoor,South,overall,1.386294361,0.1,94700,1,1,National,29104.59601,175.4314661
-BASE_Acquisition_Postpaid_South,Radio,South,overall,0.770163534,0.1,58607.78098,1,1,National,38677.18034,742.3731923
-BASE_Acquisition_Postpaid_South,Print,South,overall,2.22797308,0.4,105951,1,1,National,16797.25174,1025.143495
-BASE_Acquisition_Postpaid_South,Unbranded Search,South,overall,0.770163534,0.1,5423.08,1,1,National,1798.777184,274.4017554
-BASE_Acquisition_Postpaid_South,Promotion,National,overall,0.01,0.01,473793.995,1,1,National,134969.9527,210.212153
-BASE_Acquisition_Postpaid_South,Television,South,overall,6.931471806,0.1,98184.32091,1,1,National,59440.18742,1133.662829
-BASE_Acquisition_Prepaid,Television,North,overall,0.3,0.6,98184.32091,1,1,National,63372.84308,2510.266615
-BASE_Acquisition_Prepaid,Radio,North,overall,1.386294361,0.2,72902.21902,1,1,National,52994.81349,1010.071146
-BASE_Acquisition_Prepaid,Print,North,overall,2.310490602,0.3,43727.25267,1,1,National,10978.32934,1562.785185
-BASE_Acquisition_Prepaid,Television,South,overall,0.3,0.6,98184.32091,1,1,National,59440.18742,2354.489886
-BASE_Acquisition_Prepaid,Radio,South,overall,1.386294361,0.2,72902.21902,1,1,National,38677.18034,737.1797594
-BASE_Acquisition_Prepaid,Print,South,overall,2.310490602,0.3,43727.25267,1,1,National,16797.25174,2391.119391
-BASE_Churn_Postpaid_South,Television,South,overall,0.01,0.05,98184.32091,1,1,National,59440.18742,449.2373399
-BASE_Churn_Postpaid_South,Print,South,overall,5,0.6,105951,1,1,National,16797.25174,3932.963661
-BASE_Churn_Postpaid_South,Outdoor,South,overall,2,0.3,94700,1,1,National,29104.59601,786.2771011
-BASE_Churn_Postpaid_South,Unbranded Search,South,overall,5,0.3,5423.08,1,1,National,1798.777184,168.8419532
-BASE_Churn_Postpaid_South,Promotion,National,overall,0.01,0.01,473793.995,1,1,National,134969.9527,124.9781632
-BASE_Churn_Postpaid_North,Promotion,National,overall,0.01,0.01,473793.995,1,1,National,134969.9527,159.027049
-BASE_Churn_Postpaid_North,Television,North,overall,0.3,0.6,93145.61509,1,1,National,63372.84308,1751.208399
-BASE_Churn_Postpaid_North,SMS,North,overall,0.01,0.05,4415.7,1,1,National,407.5708553,156.9191579
-BASE_Churn_Postpaid_North,Outdoor,North,overall,2,0.3,60410.63835,1,1,National,23067.15874,471.2053327
-BASE_Churn_Postpaid_North,Unbranded Search,North,overall,3,0.15,5580.58,1,1,National,1935.072718,187.6229023
-BASE_Prepaid to Postpaid_North,Television,North,overall,3.85081767,0.1,93145.61509,1,1,National,63372.84308,351.9204013
-BASE_Prepaid to Postpaid_North,Radio,North,overall,1.732867951,0.2,72902.21902,1,1,National,52994.81349,232.1259442
-BASE_Prepaid to Postpaid_North,Unbranded Search,North,overall,0.770163534,0.3,5580.58,1,1,National,1935.072718,33.53046458
-BASE_Prepaid to Postpaid_North,Outbound Calls,North,overall,0.770163534,0.1,1217.359849,1,1,National,283.3110029,42.00971153
-BASE_Prepaid to Postpaid_North,Email,North,overall,1.732867951,0.9,2094.48,1,1,National,229.7087379,251.9011957
-BASE_Prepaid to Postpaid_North,SMS,North,overall,0.770163534,0.1,4415.7,1,1,National,407.5708553,35.85252747
-BASE_Prepaid to Postpaid_South,Television,South,overall,4.620981204,0.1,98184.32091,1,1,National,59440.18742,289.8095971
-BASE_Prepaid to Postpaid_South,Radio,South,overall,0.770163534,0.1,58607.78098,1,1,National,38677.18034,208.5472964
-BASE_Prepaid to Postpaid_South,Outbound Calls,South,overall,0.770163534,0.1,29820.64015,1,1,National,6940.031308,121.8936293
-BASE_Prepaid to Postpaid_South,Email,South,overall,0.770163534,0.9,2624.74,1,1,National,305.5994563,562.938861
-BASE_Prepaid to Postpaid_South,SMS,South,overall,1.386294361,0.1,6630.58,1,1,National,542.2573463,18.43660684
-BASE_Prepaid to Postpaid_South,Promotion,National,overall,0.01,0.01,473793.995,1,1,National,134969.9527,44.64846055
-BASE_Prepaid to Postpaid_South,Unbranded Search,South,overall,0.770163534,0.1,5423.08,1,1,National,1798.777184,117.4235866
-BASE_Prepaid to Postpaid_South,Outdoor,South,overall,0.770163534,0.9,94700,1,1,National,29104.59601,3.121483281
+BASE_Acquisition_Postpaid_North,Television,North,overall,3.465735903,0.9,93145.61509,1,1,National,63372.84308,51.86144267
+BASE_Acquisition_Postpaid_North,Radio,North,overall,1.386294361,0.2,72902.21902,1,1,National,52994.81349,33.66775438
+BASE_Acquisition_Postpaid_North,Print,North,overall,2.310490602,0.3,41907.74733,1,1,National,10978.32934,21.0781293
+BASE_Acquisition_Postpaid_North,Promotion,National,overall,0.01,0.01,473793.995,1,1,National,134969.9527,19.60962003
+BASE_Acquisition_Postpaid_North,Outdoor,North,overall,1.732867951,0.9,60410.63835,1,1,National,23067.15874,1.886966764
+BASE_Acquisition_Postpaid_North,Unbranded Search,North,overall,0.770163534,0.35,5580.58,1,1,National,1935.072718,28.51276673
+BASE_Acquisition_Postpaid_South,Outdoor,South,overall,1.386294361,0.1,94700,1,1,National,29104.59601,12.22577883
+BASE_Acquisition_Postpaid_South,Radio,South,overall,0.770163534,0.1,58607.78098,1,1,National,38677.18034,44.9876681
+BASE_Acquisition_Postpaid_South,Print,South,overall,2.22797308,0.4,105951,1,1,National,16797.25174,34.16792077
+BASE_Acquisition_Postpaid_South,Unbranded Search,South,overall,0.770163534,0.1,5423.08,1,1,National,1798.777184,43.23459897
+BASE_Acquisition_Postpaid_South,Promotion,National,overall,0.01,0.01,473793.995,1,1,National,134969.9527,32.4839776
+BASE_Acquisition_Postpaid_South,Television,South,overall,6.931471806,0.1,98184.32091,1,1,National,59440.18742,75.56971663
+BASE_Acquisition_Prepaid,Television,North,overall,0.3,0.6,98184.32091,1,1,National,63372.84308,359.512061
+BASE_Acquisition_Prepaid,Radio,North,overall,1.386294361,0.2,72902.21902,1,1,National,52994.81349,131.5082184
+BASE_Acquisition_Prepaid,Print,North,overall,2.310490602,0.3,43727.25267,1,1,National,10978.32934,111.9084561
+BASE_Acquisition_Prepaid,Television,South,overall,0.3,0.6,98184.32091,1,1,National,59440.18742,337.2022344
+BASE_Acquisition_Prepaid,Radio,South,overall,1.386294361,0.2,72902.21902,1,1,National,38677.18034,95.97858252
+BASE_Acquisition_Prepaid,Print,South,overall,2.310490602,0.3,43727.25267,1,1,National,16797.25174,171.2240953
+BASE_Churn_Postpaid_South,Television,South,overall,0.01,0.05,98184.32091,1,1,National,59440.18742,24.60755446
+BASE_Churn_Postpaid_South,Print,South,overall,5,0.6,105951,1,1,National,16797.25174,107.7165775
+BASE_Churn_Postpaid_South,Outdoor,South,overall,2,0.3,94700,1,1,National,29104.59601,45.02703925
+BASE_Churn_Postpaid_South,Unbranded Search,South,overall,5,0.3,5423.08,1,1,National,1798.777184,21.8601752
+BASE_Churn_Postpaid_South,Promotion,National,overall,0.01,0.01,473793.995,1,1,National,134969.9527,15.86990185
+BASE_Churn_Postpaid_North,Promotion,National,overall,0.01,0.01,473793.995,1,1,National,134969.9527,22.64000798
+BASE_Churn_Postpaid_North,Television,North,overall,0.3,0.6,93145.61509,1,1,National,63372.84308,78.21556984
+BASE_Churn_Postpaid_North,SMS,North,overall,0.01,0.05,4415.7,1,1,National,407.5708553,9.198789121
+BASE_Churn_Postpaid_North,Outdoor,North,overall,2,0.3,60410.63835,1,1,National,23067.15874,30.25334725
+BASE_Churn_Postpaid_North,Unbranded Search,North,overall,3,0.15,5580.58,1,1,National,1935.072718,27.23482523
+BASE_Prepaid to Postpaid_North,Television,North,overall,3.85081767,0.1,93145.61509,1,1,National,63372.84308,69.95578794
+BASE_Prepaid to Postpaid_North,Radio,North,overall,1.732867951,0.2,72902.21902,1,1,National,52994.81349,46.14268813
+BASE_Prepaid to Postpaid_North,Unbranded Search,North,overall,0.770163534,0.3,5580.58,1,1,National,1935.072718,21.662179
+BASE_Prepaid to Postpaid_North,Outbound Calls,North,overall,0.770163534,0.1,1217.359849,1,1,National,283.3110029,16.17970574
+BASE_Prepaid to Postpaid_North,Email,North,overall,1.732867951,0.9,2094.48,1,1,National,229.7087379,31.29604479
+BASE_Prepaid to Postpaid_North,SMS,North,overall,0.770163534,0.1,4415.7,1,1,National,407.5708553,9.354020076
+BASE_Prepaid to Postpaid_South,Television,South,overall,4.620981204,0.1,98184.32091,1,1,National,59440.18742,84.09124077
+BASE_Prepaid to Postpaid_South,Radio,South,overall,0.770163534,0.1,58607.78098,1,1,National,38677.18034,55.01104264
+BASE_Prepaid to Postpaid_South,Outbound Calls,South,overall,0.770163534,0.1,29820.64015,1,1,National,6940.031308,49.83770308
+BASE_Prepaid to Postpaid_South,Email,South,overall,0.770163534,0.9,2624.74,1,1,National,305.5994563,74.24659591
+BASE_Prepaid to Postpaid_South,SMS,South,overall,1.386294361,0.1,6630.58,1,1,National,542.2573463,5.106409106
+BASE_Prepaid to Postpaid_South,Promotion,National,overall,0.01,0.01,473793.995,1,1,National,134969.9527,30.03253432
+BASE_Prepaid to Postpaid_South,Unbranded Search,South,overall,0.770163534,0.1,5423.08,1,1,National,1798.777184,80.53302299
+BASE_Prepaid to Postpaid_South,Outdoor,South,overall,0.770163534,0.9,94700,1,1,National,29104.59601,0.946900107
