@@ -1,4 +1,4 @@
-setwd("C:\\Users\\yuemeng1\\Desktop\\TOOL\\telenet\\admin\\opt\\admin\\")
+setwd("C:\\Users\\ylee3\\Desktop\\Ninah Tools\\telenet\\admin\\opt\\admin\\")
 suppressMessages(suppressWarnings(library(RMySQL)))
 # True generate db version files, F generates flat file version files
 db.usage=T
@@ -16,7 +16,7 @@ if (is.staging){
   username="Zkdz408R6hll"
   password="XH3RoKdopf12L4BJbqXTtD2yESgwL$fGd(juW)ed"
 }
-main.path="C:\\Users\\yuemeng1\\Desktop\\code\\opt\\" # opt files path
+main.path="C:\\Users\\ylee3\\Desktop\\Ninah Tools\\opt\\" # opt files path
 season.var=0.1  # from 0 to 1
 
 
