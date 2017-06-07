@@ -1,1041 +1,1093 @@
 week_id,sales1_name,factor
-1,CON_Acquisition Bundles,1
-2,CON_Acquisition Bundles,1
-3,CON_Acquisition Bundles,1
-4,CON_Acquisition Bundles,1
-5,CON_Acquisition Bundles,1
-6,CON_Acquisition Bundles,1
-7,CON_Acquisition Bundles,1
-8,CON_Acquisition Bundles,1
-9,CON_Acquisition Bundles,1
-10,CON_Acquisition Bundles,1
-11,CON_Acquisition Bundles,1
-12,CON_Acquisition Bundles,1
-13,CON_Acquisition Bundles,1
-14,CON_Acquisition Bundles,1
-15,CON_Acquisition Bundles,1
-16,CON_Acquisition Bundles,1
-17,CON_Acquisition Bundles,1
-18,CON_Acquisition Bundles,1
-19,CON_Acquisition Bundles,1
-20,CON_Acquisition Bundles,1
-21,CON_Acquisition Bundles,1
-22,CON_Acquisition Bundles,1
-23,CON_Acquisition Bundles,1
-24,CON_Acquisition Bundles,1
-25,CON_Acquisition Bundles,1
-26,CON_Acquisition Bundles,1
-27,CON_Acquisition Bundles,1
-28,CON_Acquisition Bundles,1
-29,CON_Acquisition Bundles,1
-30,CON_Acquisition Bundles,1
-31,CON_Acquisition Bundles,1
-32,CON_Acquisition Bundles,1
-33,CON_Acquisition Bundles,1
-34,CON_Acquisition Bundles,1
-35,CON_Acquisition Bundles,1
-36,CON_Acquisition Bundles,1
-37,CON_Acquisition Bundles,1
-38,CON_Acquisition Bundles,1
-39,CON_Acquisition Bundles,1
-40,CON_Acquisition Bundles,1
-41,CON_Acquisition Bundles,1
-42,CON_Acquisition Bundles,1
-43,CON_Acquisition Bundles,1
-44,CON_Acquisition Bundles,1
-45,CON_Acquisition Bundles,1
-46,CON_Acquisition Bundles,1
-47,CON_Acquisition Bundles,1
-48,CON_Acquisition Bundles,1
-49,CON_Acquisition Bundles,1
-50,CON_Acquisition Bundles,1
-51,CON_Acquisition Bundles,1
-52,CON_Acquisition Bundles,1
-1,CON_Cross-Sell Mobile,1
-2,CON_Cross-Sell Mobile,1
-3,CON_Cross-Sell Mobile,1
-4,CON_Cross-Sell Mobile,1
-5,CON_Cross-Sell Mobile,1
-6,CON_Cross-Sell Mobile,1
-7,CON_Cross-Sell Mobile,1
-8,CON_Cross-Sell Mobile,1
-9,CON_Cross-Sell Mobile,1
-10,CON_Cross-Sell Mobile,1
-11,CON_Cross-Sell Mobile,1
-12,CON_Cross-Sell Mobile,1
-13,CON_Cross-Sell Mobile,1
-14,CON_Cross-Sell Mobile,1
-15,CON_Cross-Sell Mobile,1
-16,CON_Cross-Sell Mobile,1
-17,CON_Cross-Sell Mobile,1
-18,CON_Cross-Sell Mobile,1
-19,CON_Cross-Sell Mobile,1
-20,CON_Cross-Sell Mobile,1
-21,CON_Cross-Sell Mobile,1
-22,CON_Cross-Sell Mobile,1
-23,CON_Cross-Sell Mobile,1
-24,CON_Cross-Sell Mobile,1
-25,CON_Cross-Sell Mobile,1
-26,CON_Cross-Sell Mobile,1
-27,CON_Cross-Sell Mobile,1
-28,CON_Cross-Sell Mobile,1
-29,CON_Cross-Sell Mobile,1
-30,CON_Cross-Sell Mobile,1
-31,CON_Cross-Sell Mobile,1
-32,CON_Cross-Sell Mobile,1
-33,CON_Cross-Sell Mobile,1
-34,CON_Cross-Sell Mobile,1
-35,CON_Cross-Sell Mobile,1
-36,CON_Cross-Sell Mobile,1
-37,CON_Cross-Sell Mobile,1
-38,CON_Cross-Sell Mobile,1
-39,CON_Cross-Sell Mobile,1
-40,CON_Cross-Sell Mobile,1
-41,CON_Cross-Sell Mobile,1
-42,CON_Cross-Sell Mobile,1
-43,CON_Cross-Sell Mobile,1
-44,CON_Cross-Sell Mobile,1
-45,CON_Cross-Sell Mobile,1
-46,CON_Cross-Sell Mobile,1
-47,CON_Cross-Sell Mobile,1
-48,CON_Cross-Sell Mobile,1
-49,CON_Cross-Sell Mobile,1
-50,CON_Cross-Sell Mobile,1
-51,CON_Cross-Sell Mobile,1
-52,CON_Cross-Sell Mobile,1
-1,CON_Acquisition Internet Only,1
-2,CON_Acquisition Internet Only,1
-3,CON_Acquisition Internet Only,1
-4,CON_Acquisition Internet Only,1
-5,CON_Acquisition Internet Only,1
-6,CON_Acquisition Internet Only,1
-7,CON_Acquisition Internet Only,1
-8,CON_Acquisition Internet Only,1
-9,CON_Acquisition Internet Only,1
-10,CON_Acquisition Internet Only,1
-11,CON_Acquisition Internet Only,1
-12,CON_Acquisition Internet Only,1
-13,CON_Acquisition Internet Only,1
-14,CON_Acquisition Internet Only,1
-15,CON_Acquisition Internet Only,1
-16,CON_Acquisition Internet Only,1
-17,CON_Acquisition Internet Only,1
-18,CON_Acquisition Internet Only,1
-19,CON_Acquisition Internet Only,1
-20,CON_Acquisition Internet Only,1
-21,CON_Acquisition Internet Only,1
-22,CON_Acquisition Internet Only,1
-23,CON_Acquisition Internet Only,1
-24,CON_Acquisition Internet Only,1
-25,CON_Acquisition Internet Only,1
-26,CON_Acquisition Internet Only,1
-27,CON_Acquisition Internet Only,1
-28,CON_Acquisition Internet Only,1
-29,CON_Acquisition Internet Only,1
-30,CON_Acquisition Internet Only,1
-31,CON_Acquisition Internet Only,1
-32,CON_Acquisition Internet Only,1
-33,CON_Acquisition Internet Only,1
-34,CON_Acquisition Internet Only,1
-35,CON_Acquisition Internet Only,1
-36,CON_Acquisition Internet Only,1
-37,CON_Acquisition Internet Only,1
-38,CON_Acquisition Internet Only,1
-39,CON_Acquisition Internet Only,1
-40,CON_Acquisition Internet Only,1
-41,CON_Acquisition Internet Only,1
-42,CON_Acquisition Internet Only,1
-43,CON_Acquisition Internet Only,1
-44,CON_Acquisition Internet Only,1
-45,CON_Acquisition Internet Only,1
-46,CON_Acquisition Internet Only,1
-47,CON_Acquisition Internet Only,1
-48,CON_Acquisition Internet Only,1
-49,CON_Acquisition Internet Only,1
-50,CON_Acquisition Internet Only,1
-51,CON_Acquisition Internet Only,1
-52,CON_Acquisition Internet Only,1
-1,CON_Acquisition DTV - TV only,1
-2,CON_Acquisition DTV - TV only,1
-3,CON_Acquisition DTV - TV only,1
-4,CON_Acquisition DTV - TV only,1
-5,CON_Acquisition DTV - TV only,1
-6,CON_Acquisition DTV - TV only,1
-7,CON_Acquisition DTV - TV only,1
-8,CON_Acquisition DTV - TV only,1
-9,CON_Acquisition DTV - TV only,1
-10,CON_Acquisition DTV - TV only,1
-11,CON_Acquisition DTV - TV only,1
-12,CON_Acquisition DTV - TV only,1
-13,CON_Acquisition DTV - TV only,1
-14,CON_Acquisition DTV - TV only,1
-15,CON_Acquisition DTV - TV only,1
-16,CON_Acquisition DTV - TV only,1
-17,CON_Acquisition DTV - TV only,1
-18,CON_Acquisition DTV - TV only,1
-19,CON_Acquisition DTV - TV only,1
-20,CON_Acquisition DTV - TV only,1
-21,CON_Acquisition DTV - TV only,1
-22,CON_Acquisition DTV - TV only,1
-23,CON_Acquisition DTV - TV only,1
-24,CON_Acquisition DTV - TV only,1
-25,CON_Acquisition DTV - TV only,1
-26,CON_Acquisition DTV - TV only,1
-27,CON_Acquisition DTV - TV only,1
-28,CON_Acquisition DTV - TV only,1
-29,CON_Acquisition DTV - TV only,1
-30,CON_Acquisition DTV - TV only,1
-31,CON_Acquisition DTV - TV only,1
-32,CON_Acquisition DTV - TV only,1
-33,CON_Acquisition DTV - TV only,1
-34,CON_Acquisition DTV - TV only,1
-35,CON_Acquisition DTV - TV only,1
-36,CON_Acquisition DTV - TV only,1
-37,CON_Acquisition DTV - TV only,1
-38,CON_Acquisition DTV - TV only,1
-39,CON_Acquisition DTV - TV only,1
-40,CON_Acquisition DTV - TV only,1
-41,CON_Acquisition DTV - TV only,1
-42,CON_Acquisition DTV - TV only,1
-43,CON_Acquisition DTV - TV only,1
-44,CON_Acquisition DTV - TV only,1
-45,CON_Acquisition DTV - TV only,1
-46,CON_Acquisition DTV - TV only,1
-47,CON_Acquisition DTV - TV only,1
-48,CON_Acquisition DTV - TV only,1
-49,CON_Acquisition DTV - TV only,1
-50,CON_Acquisition DTV - TV only,1
-51,CON_Acquisition DTV - TV only,1
-52,CON_Acquisition DTV - TV only,1
-1,CON_Up-Sell Whop to Whoppa,1
-2,CON_Up-Sell Whop to Whoppa,1
-3,CON_Up-Sell Whop to Whoppa,1
-4,CON_Up-Sell Whop to Whoppa,1
-5,CON_Up-Sell Whop to Whoppa,1
-6,CON_Up-Sell Whop to Whoppa,1
-7,CON_Up-Sell Whop to Whoppa,1
-8,CON_Up-Sell Whop to Whoppa,1
-9,CON_Up-Sell Whop to Whoppa,1
-10,CON_Up-Sell Whop to Whoppa,1
-11,CON_Up-Sell Whop to Whoppa,1
-12,CON_Up-Sell Whop to Whoppa,1
-13,CON_Up-Sell Whop to Whoppa,1
-14,CON_Up-Sell Whop to Whoppa,1
-15,CON_Up-Sell Whop to Whoppa,1
-16,CON_Up-Sell Whop to Whoppa,1
-17,CON_Up-Sell Whop to Whoppa,1
-18,CON_Up-Sell Whop to Whoppa,1
-19,CON_Up-Sell Whop to Whoppa,1
-20,CON_Up-Sell Whop to Whoppa,1
-21,CON_Up-Sell Whop to Whoppa,1
-22,CON_Up-Sell Whop to Whoppa,1
-23,CON_Up-Sell Whop to Whoppa,1
-24,CON_Up-Sell Whop to Whoppa,1
-25,CON_Up-Sell Whop to Whoppa,1
-26,CON_Up-Sell Whop to Whoppa,1
-27,CON_Up-Sell Whop to Whoppa,1
-28,CON_Up-Sell Whop to Whoppa,1
-29,CON_Up-Sell Whop to Whoppa,1
-30,CON_Up-Sell Whop to Whoppa,1
-31,CON_Up-Sell Whop to Whoppa,1
-32,CON_Up-Sell Whop to Whoppa,1
-33,CON_Up-Sell Whop to Whoppa,1
-34,CON_Up-Sell Whop to Whoppa,1
-35,CON_Up-Sell Whop to Whoppa,1
-36,CON_Up-Sell Whop to Whoppa,1
-37,CON_Up-Sell Whop to Whoppa,1
-38,CON_Up-Sell Whop to Whoppa,1
-39,CON_Up-Sell Whop to Whoppa,1
-40,CON_Up-Sell Whop to Whoppa,1
-41,CON_Up-Sell Whop to Whoppa,1
-42,CON_Up-Sell Whop to Whoppa,1
-43,CON_Up-Sell Whop to Whoppa,1
-44,CON_Up-Sell Whop to Whoppa,1
-45,CON_Up-Sell Whop to Whoppa,1
-46,CON_Up-Sell Whop to Whoppa,1
-47,CON_Up-Sell Whop to Whoppa,1
-48,CON_Up-Sell Whop to Whoppa,1
-49,CON_Up-Sell Whop to Whoppa,1
-50,CON_Up-Sell Whop to Whoppa,1
-51,CON_Up-Sell Whop to Whoppa,1
-52,CON_Up-Sell Whop to Whoppa,1
-1,CON_Churn mobile,1
-2,CON_Churn mobile,1
-3,CON_Churn mobile,1
-4,CON_Churn mobile,1
-5,CON_Churn mobile,1
-6,CON_Churn mobile,1
-7,CON_Churn mobile,1
-8,CON_Churn mobile,1
-9,CON_Churn mobile,1
-10,CON_Churn mobile,1
-11,CON_Churn mobile,1
-12,CON_Churn mobile,1
-13,CON_Churn mobile,1
-14,CON_Churn mobile,1
-15,CON_Churn mobile,1
-16,CON_Churn mobile,1
-17,CON_Churn mobile,1
-18,CON_Churn mobile,1
-19,CON_Churn mobile,1
-20,CON_Churn mobile,1
-21,CON_Churn mobile,1
-22,CON_Churn mobile,1
-23,CON_Churn mobile,1
-24,CON_Churn mobile,1
-25,CON_Churn mobile,1
-26,CON_Churn mobile,1
-27,CON_Churn mobile,1
-28,CON_Churn mobile,1
-29,CON_Churn mobile,1
-30,CON_Churn mobile,1
-31,CON_Churn mobile,1
-32,CON_Churn mobile,1
-33,CON_Churn mobile,1
-34,CON_Churn mobile,1
-35,CON_Churn mobile,1
-36,CON_Churn mobile,1
-37,CON_Churn mobile,1
-38,CON_Churn mobile,1
-39,CON_Churn mobile,1
-40,CON_Churn mobile,1
-41,CON_Churn mobile,1
-42,CON_Churn mobile,1
-43,CON_Churn mobile,1
-44,CON_Churn mobile,1
-45,CON_Churn mobile,1
-46,CON_Churn mobile,1
-47,CON_Churn mobile,1
-48,CON_Churn mobile,1
-49,CON_Churn mobile,1
-50,CON_Churn mobile,1
-51,CON_Churn mobile,1
-52,CON_Churn mobile,1
-1,CON_Churn 2P 3P 4P,1
-2,CON_Churn 2P 3P 4P,1
-3,CON_Churn 2P 3P 4P,1
-4,CON_Churn 2P 3P 4P,1
-5,CON_Churn 2P 3P 4P,1
-6,CON_Churn 2P 3P 4P,1
-7,CON_Churn 2P 3P 4P,1
-8,CON_Churn 2P 3P 4P,1
-9,CON_Churn 2P 3P 4P,1
-10,CON_Churn 2P 3P 4P,1
-11,CON_Churn 2P 3P 4P,1
-12,CON_Churn 2P 3P 4P,1
-13,CON_Churn 2P 3P 4P,1
-14,CON_Churn 2P 3P 4P,1
-15,CON_Churn 2P 3P 4P,1
-16,CON_Churn 2P 3P 4P,1
-17,CON_Churn 2P 3P 4P,1
-18,CON_Churn 2P 3P 4P,1
-19,CON_Churn 2P 3P 4P,1
-20,CON_Churn 2P 3P 4P,1
-21,CON_Churn 2P 3P 4P,1
-22,CON_Churn 2P 3P 4P,1
-23,CON_Churn 2P 3P 4P,1
-24,CON_Churn 2P 3P 4P,1
-25,CON_Churn 2P 3P 4P,1
-26,CON_Churn 2P 3P 4P,1
-27,CON_Churn 2P 3P 4P,1
-28,CON_Churn 2P 3P 4P,1
-29,CON_Churn 2P 3P 4P,1
-30,CON_Churn 2P 3P 4P,1
-31,CON_Churn 2P 3P 4P,1
-32,CON_Churn 2P 3P 4P,1
-33,CON_Churn 2P 3P 4P,1
-34,CON_Churn 2P 3P 4P,1
-35,CON_Churn 2P 3P 4P,1
-36,CON_Churn 2P 3P 4P,1
-37,CON_Churn 2P 3P 4P,1
-38,CON_Churn 2P 3P 4P,1
-39,CON_Churn 2P 3P 4P,1
-40,CON_Churn 2P 3P 4P,1
-41,CON_Churn 2P 3P 4P,1
-42,CON_Churn 2P 3P 4P,1
-43,CON_Churn 2P 3P 4P,1
-44,CON_Churn 2P 3P 4P,1
-45,CON_Churn 2P 3P 4P,1
-46,CON_Churn 2P 3P 4P,1
-47,CON_Churn 2P 3P 4P,1
-48,CON_Churn 2P 3P 4P,1
-49,CON_Churn 2P 3P 4P,1
-50,CON_Churn 2P 3P 4P,1
-51,CON_Churn 2P 3P 4P,1
-52,CON_Churn 2P 3P 4P,1
-1,CON_Churn 1P (INT or DTV),1
-2,CON_Churn 1P (INT or DTV),1
-3,CON_Churn 1P (INT or DTV),1
-4,CON_Churn 1P (INT or DTV),1
-5,CON_Churn 1P (INT or DTV),1
-6,CON_Churn 1P (INT or DTV),1
-7,CON_Churn 1P (INT or DTV),1
-8,CON_Churn 1P (INT or DTV),1
-9,CON_Churn 1P (INT or DTV),1
-10,CON_Churn 1P (INT or DTV),1
-11,CON_Churn 1P (INT or DTV),1
-12,CON_Churn 1P (INT or DTV),1
-13,CON_Churn 1P (INT or DTV),1
-14,CON_Churn 1P (INT or DTV),1
-15,CON_Churn 1P (INT or DTV),1
-16,CON_Churn 1P (INT or DTV),1
-17,CON_Churn 1P (INT or DTV),1
-18,CON_Churn 1P (INT or DTV),1
-19,CON_Churn 1P (INT or DTV),1
-20,CON_Churn 1P (INT or DTV),1
-21,CON_Churn 1P (INT or DTV),1
-22,CON_Churn 1P (INT or DTV),1
-23,CON_Churn 1P (INT or DTV),1
-24,CON_Churn 1P (INT or DTV),1
-25,CON_Churn 1P (INT or DTV),1
-26,CON_Churn 1P (INT or DTV),1
-27,CON_Churn 1P (INT or DTV),1
-28,CON_Churn 1P (INT or DTV),1
-29,CON_Churn 1P (INT or DTV),1
-30,CON_Churn 1P (INT or DTV),1
-31,CON_Churn 1P (INT or DTV),1
-32,CON_Churn 1P (INT or DTV),1
-33,CON_Churn 1P (INT or DTV),1
-34,CON_Churn 1P (INT or DTV),1
-35,CON_Churn 1P (INT or DTV),1
-36,CON_Churn 1P (INT or DTV),1
-37,CON_Churn 1P (INT or DTV),1
-38,CON_Churn 1P (INT or DTV),1
-39,CON_Churn 1P (INT or DTV),1
-40,CON_Churn 1P (INT or DTV),1
-41,CON_Churn 1P (INT or DTV),1
-42,CON_Churn 1P (INT or DTV),1
-43,CON_Churn 1P (INT or DTV),1
-44,CON_Churn 1P (INT or DTV),1
-45,CON_Churn 1P (INT or DTV),1
-46,CON_Churn 1P (INT or DTV),1
-47,CON_Churn 1P (INT or DTV),1
-48,CON_Churn 1P (INT or DTV),1
-49,CON_Churn 1P (INT or DTV),1
-50,CON_Churn 1P (INT or DTV),1
-51,CON_Churn 1P (INT or DTV),1
-52,CON_Churn 1P (INT or DTV),1
-1,ENT_Up-sell Play to Play More,1
-2,ENT_Up-sell Play to Play More,1
-3,ENT_Up-sell Play to Play More,1
-4,ENT_Up-sell Play to Play More,1
-5,ENT_Up-sell Play to Play More,1
-6,ENT_Up-sell Play to Play More,1
-7,ENT_Up-sell Play to Play More,1
-8,ENT_Up-sell Play to Play More,1
-9,ENT_Up-sell Play to Play More,1
-10,ENT_Up-sell Play to Play More,1
-11,ENT_Up-sell Play to Play More,1
-12,ENT_Up-sell Play to Play More,1
-13,ENT_Up-sell Play to Play More,1
-14,ENT_Up-sell Play to Play More,1
-15,ENT_Up-sell Play to Play More,1
-16,ENT_Up-sell Play to Play More,1
-17,ENT_Up-sell Play to Play More,1
-18,ENT_Up-sell Play to Play More,1
-19,ENT_Up-sell Play to Play More,1
-20,ENT_Up-sell Play to Play More,1
-21,ENT_Up-sell Play to Play More,1
-22,ENT_Up-sell Play to Play More,1
-23,ENT_Up-sell Play to Play More,1
-24,ENT_Up-sell Play to Play More,1
-25,ENT_Up-sell Play to Play More,1
-26,ENT_Up-sell Play to Play More,1
-27,ENT_Up-sell Play to Play More,1
-28,ENT_Up-sell Play to Play More,1
-29,ENT_Up-sell Play to Play More,1
-30,ENT_Up-sell Play to Play More,1
-31,ENT_Up-sell Play to Play More,1
-32,ENT_Up-sell Play to Play More,1
-33,ENT_Up-sell Play to Play More,1
-34,ENT_Up-sell Play to Play More,1
-35,ENT_Up-sell Play to Play More,1
-36,ENT_Up-sell Play to Play More,1
-37,ENT_Up-sell Play to Play More,1
-38,ENT_Up-sell Play to Play More,1
-39,ENT_Up-sell Play to Play More,1
-40,ENT_Up-sell Play to Play More,1
-41,ENT_Up-sell Play to Play More,1
-42,ENT_Up-sell Play to Play More,1
-43,ENT_Up-sell Play to Play More,1
-44,ENT_Up-sell Play to Play More,1
-45,ENT_Up-sell Play to Play More,1
-46,ENT_Up-sell Play to Play More,1
-47,ENT_Up-sell Play to Play More,1
-48,ENT_Up-sell Play to Play More,1
-49,ENT_Up-sell Play to Play More,1
-50,ENT_Up-sell Play to Play More,1
-51,ENT_Up-sell Play to Play More,1
-52,ENT_Up-sell Play to Play More,1
-1,ENT_Acquisition Play,1
-2,ENT_Acquisition Play,1
-3,ENT_Acquisition Play,1
-4,ENT_Acquisition Play,1
-5,ENT_Acquisition Play,1
-6,ENT_Acquisition Play,1
-7,ENT_Acquisition Play,1
-8,ENT_Acquisition Play,1
-9,ENT_Acquisition Play,1
-10,ENT_Acquisition Play,1
-11,ENT_Acquisition Play,1
-12,ENT_Acquisition Play,1
-13,ENT_Acquisition Play,1
-14,ENT_Acquisition Play,1
-15,ENT_Acquisition Play,1
-16,ENT_Acquisition Play,1
-17,ENT_Acquisition Play,1
-18,ENT_Acquisition Play,1
-19,ENT_Acquisition Play,1
-20,ENT_Acquisition Play,1
-21,ENT_Acquisition Play,1
-22,ENT_Acquisition Play,1
-23,ENT_Acquisition Play,1
-24,ENT_Acquisition Play,1
-25,ENT_Acquisition Play,1
-26,ENT_Acquisition Play,1
-27,ENT_Acquisition Play,1
-28,ENT_Acquisition Play,1
-29,ENT_Acquisition Play,1
-30,ENT_Acquisition Play,1
-31,ENT_Acquisition Play,1
-32,ENT_Acquisition Play,1
-33,ENT_Acquisition Play,1
-34,ENT_Acquisition Play,1
-35,ENT_Acquisition Play,1
-36,ENT_Acquisition Play,1
-37,ENT_Acquisition Play,1
-38,ENT_Acquisition Play,1
-39,ENT_Acquisition Play,1
-40,ENT_Acquisition Play,1
-41,ENT_Acquisition Play,1
-42,ENT_Acquisition Play,1
-43,ENT_Acquisition Play,1
-44,ENT_Acquisition Play,1
-45,ENT_Acquisition Play,1
-46,ENT_Acquisition Play,1
-47,ENT_Acquisition Play,1
-48,ENT_Acquisition Play,1
-49,ENT_Acquisition Play,1
-50,ENT_Acquisition Play,1
-51,ENT_Acquisition Play,1
-52,ENT_Acquisition Play,1
-1,ENT_Acquisition Play Sports,1
-2,ENT_Acquisition Play Sports,1
-3,ENT_Acquisition Play Sports,1
-4,ENT_Acquisition Play Sports,1
-5,ENT_Acquisition Play Sports,1
-6,ENT_Acquisition Play Sports,1
-7,ENT_Acquisition Play Sports,1
-8,ENT_Acquisition Play Sports,1
-9,ENT_Acquisition Play Sports,1
-10,ENT_Acquisition Play Sports,1
-11,ENT_Acquisition Play Sports,1
-12,ENT_Acquisition Play Sports,1
-13,ENT_Acquisition Play Sports,1
-14,ENT_Acquisition Play Sports,1
-15,ENT_Acquisition Play Sports,1
-16,ENT_Acquisition Play Sports,1
-17,ENT_Acquisition Play Sports,1
-18,ENT_Acquisition Play Sports,1
-19,ENT_Acquisition Play Sports,1
-20,ENT_Acquisition Play Sports,1
-21,ENT_Acquisition Play Sports,1
-22,ENT_Acquisition Play Sports,1
-23,ENT_Acquisition Play Sports,1
-24,ENT_Acquisition Play Sports,1
-25,ENT_Acquisition Play Sports,1
-26,ENT_Acquisition Play Sports,1
-27,ENT_Acquisition Play Sports,1
-28,ENT_Acquisition Play Sports,1
-29,ENT_Acquisition Play Sports,1
-30,ENT_Acquisition Play Sports,1
-31,ENT_Acquisition Play Sports,1
-32,ENT_Acquisition Play Sports,1
-33,ENT_Acquisition Play Sports,1
-34,ENT_Acquisition Play Sports,1
-35,ENT_Acquisition Play Sports,1
-36,ENT_Acquisition Play Sports,1
-37,ENT_Acquisition Play Sports,1
-38,ENT_Acquisition Play Sports,1
-39,ENT_Acquisition Play Sports,1
-40,ENT_Acquisition Play Sports,1
-41,ENT_Acquisition Play Sports,1
-42,ENT_Acquisition Play Sports,1
-43,ENT_Acquisition Play Sports,1
-44,ENT_Acquisition Play Sports,1
-45,ENT_Acquisition Play Sports,1
-46,ENT_Acquisition Play Sports,1
-47,ENT_Acquisition Play Sports,1
-48,ENT_Acquisition Play Sports,1
-49,ENT_Acquisition Play Sports,1
-50,ENT_Acquisition Play Sports,1
-51,ENT_Acquisition Play Sports,1
-52,ENT_Acquisition Play Sports,1
-1,ENT_Acquisition Play More,1
-2,ENT_Acquisition Play More,1
-3,ENT_Acquisition Play More,1
-4,ENT_Acquisition Play More,1
-5,ENT_Acquisition Play More,1
-6,ENT_Acquisition Play More,1
-7,ENT_Acquisition Play More,1
-8,ENT_Acquisition Play More,1
-9,ENT_Acquisition Play More,1
-10,ENT_Acquisition Play More,1
-11,ENT_Acquisition Play More,1
-12,ENT_Acquisition Play More,1
-13,ENT_Acquisition Play More,1
-14,ENT_Acquisition Play More,1
-15,ENT_Acquisition Play More,1
-16,ENT_Acquisition Play More,1
-17,ENT_Acquisition Play More,1
-18,ENT_Acquisition Play More,1
-19,ENT_Acquisition Play More,1
-20,ENT_Acquisition Play More,1
-21,ENT_Acquisition Play More,1
-22,ENT_Acquisition Play More,1
-23,ENT_Acquisition Play More,1
-24,ENT_Acquisition Play More,1
-25,ENT_Acquisition Play More,1
-26,ENT_Acquisition Play More,1
-27,ENT_Acquisition Play More,1
-28,ENT_Acquisition Play More,1
-29,ENT_Acquisition Play More,1
-30,ENT_Acquisition Play More,1
-31,ENT_Acquisition Play More,1
-32,ENT_Acquisition Play More,1
-33,ENT_Acquisition Play More,1
-34,ENT_Acquisition Play More,1
-35,ENT_Acquisition Play More,1
-36,ENT_Acquisition Play More,1
-37,ENT_Acquisition Play More,1
-38,ENT_Acquisition Play More,1
-39,ENT_Acquisition Play More,1
-40,ENT_Acquisition Play More,1
-41,ENT_Acquisition Play More,1
-42,ENT_Acquisition Play More,1
-43,ENT_Acquisition Play More,1
-44,ENT_Acquisition Play More,1
-45,ENT_Acquisition Play More,1
-46,ENT_Acquisition Play More,1
-47,ENT_Acquisition Play More,1
-48,ENT_Acquisition Play More,1
-49,ENT_Acquisition Play More,1
-50,ENT_Acquisition Play More,1
-51,ENT_Acquisition Play More,1
-52,ENT_Acquisition Play More,1
-1,ENT_Churn,1
-2,ENT_Churn,1
-3,ENT_Churn,1
-4,ENT_Churn,1
-5,ENT_Churn,1
-6,ENT_Churn,1
-7,ENT_Churn,1
-8,ENT_Churn,1
-9,ENT_Churn,1
-10,ENT_Churn,1
-11,ENT_Churn,1
-12,ENT_Churn,1
-13,ENT_Churn,1
-14,ENT_Churn,1
-15,ENT_Churn,1
-16,ENT_Churn,1
-17,ENT_Churn,1
-18,ENT_Churn,1
-19,ENT_Churn,1
-20,ENT_Churn,1
-21,ENT_Churn,1
-22,ENT_Churn,1
-23,ENT_Churn,1
-24,ENT_Churn,1
-25,ENT_Churn,1
-26,ENT_Churn,1
-27,ENT_Churn,1
-28,ENT_Churn,1
-29,ENT_Churn,1
-30,ENT_Churn,1
-31,ENT_Churn,1
-32,ENT_Churn,1
-33,ENT_Churn,1
-34,ENT_Churn,1
-35,ENT_Churn,1
-36,ENT_Churn,1
-37,ENT_Churn,1
-38,ENT_Churn,1
-39,ENT_Churn,1
-40,ENT_Churn,1
-41,ENT_Churn,1
-42,ENT_Churn,1
-43,ENT_Churn,1
-44,ENT_Churn,1
-45,ENT_Churn,1
-46,ENT_Churn,1
-47,ENT_Churn,1
-48,ENT_Churn,1
-49,ENT_Churn,1
-50,ENT_Churn,1
-51,ENT_Churn,1
-52,ENT_Churn,1
-1,BASE_Acquisition_Postpaid_North,1
-2,BASE_Acquisition_Postpaid_North,1
-3,BASE_Acquisition_Postpaid_North,1
-4,BASE_Acquisition_Postpaid_North,1
-5,BASE_Acquisition_Postpaid_North,1
-6,BASE_Acquisition_Postpaid_North,1
-7,BASE_Acquisition_Postpaid_North,1
-8,BASE_Acquisition_Postpaid_North,1
-9,BASE_Acquisition_Postpaid_North,1
-10,BASE_Acquisition_Postpaid_North,1
-11,BASE_Acquisition_Postpaid_North,1
-12,BASE_Acquisition_Postpaid_North,1
-13,BASE_Acquisition_Postpaid_North,1
-14,BASE_Acquisition_Postpaid_North,1
-15,BASE_Acquisition_Postpaid_North,1
-16,BASE_Acquisition_Postpaid_North,1
-17,BASE_Acquisition_Postpaid_North,1
-18,BASE_Acquisition_Postpaid_North,1
-19,BASE_Acquisition_Postpaid_North,1
-20,BASE_Acquisition_Postpaid_North,1
-21,BASE_Acquisition_Postpaid_North,1
-22,BASE_Acquisition_Postpaid_North,1
-23,BASE_Acquisition_Postpaid_North,1
-24,BASE_Acquisition_Postpaid_North,1
-25,BASE_Acquisition_Postpaid_North,1
-26,BASE_Acquisition_Postpaid_North,1
-27,BASE_Acquisition_Postpaid_North,1
-28,BASE_Acquisition_Postpaid_North,1
-29,BASE_Acquisition_Postpaid_North,1
-30,BASE_Acquisition_Postpaid_North,1
-31,BASE_Acquisition_Postpaid_North,1
-32,BASE_Acquisition_Postpaid_North,1
-33,BASE_Acquisition_Postpaid_North,1
-34,BASE_Acquisition_Postpaid_North,1
-35,BASE_Acquisition_Postpaid_North,1
-36,BASE_Acquisition_Postpaid_North,1
-37,BASE_Acquisition_Postpaid_North,1
-38,BASE_Acquisition_Postpaid_North,1
-39,BASE_Acquisition_Postpaid_North,1
-40,BASE_Acquisition_Postpaid_North,1
-41,BASE_Acquisition_Postpaid_North,1
-42,BASE_Acquisition_Postpaid_North,1
-43,BASE_Acquisition_Postpaid_North,1
-44,BASE_Acquisition_Postpaid_North,1
-45,BASE_Acquisition_Postpaid_North,1
-46,BASE_Acquisition_Postpaid_North,1
-47,BASE_Acquisition_Postpaid_North,1
-48,BASE_Acquisition_Postpaid_North,1
-49,BASE_Acquisition_Postpaid_North,1
-50,BASE_Acquisition_Postpaid_North,1
-51,BASE_Acquisition_Postpaid_North,1
-52,BASE_Acquisition_Postpaid_North,1
-1,BASE_Acquisition_Postpaid_South,1
-2,BASE_Acquisition_Postpaid_South,1
-3,BASE_Acquisition_Postpaid_South,1
-4,BASE_Acquisition_Postpaid_South,1
-5,BASE_Acquisition_Postpaid_South,1
-6,BASE_Acquisition_Postpaid_South,1
-7,BASE_Acquisition_Postpaid_South,1
-8,BASE_Acquisition_Postpaid_South,1
-9,BASE_Acquisition_Postpaid_South,1
-10,BASE_Acquisition_Postpaid_South,1
-11,BASE_Acquisition_Postpaid_South,1
-12,BASE_Acquisition_Postpaid_South,1
-13,BASE_Acquisition_Postpaid_South,1
-14,BASE_Acquisition_Postpaid_South,1
-15,BASE_Acquisition_Postpaid_South,1
-16,BASE_Acquisition_Postpaid_South,1
-17,BASE_Acquisition_Postpaid_South,1
-18,BASE_Acquisition_Postpaid_South,1
-19,BASE_Acquisition_Postpaid_South,1
-20,BASE_Acquisition_Postpaid_South,1
-21,BASE_Acquisition_Postpaid_South,1
-22,BASE_Acquisition_Postpaid_South,1
-23,BASE_Acquisition_Postpaid_South,1
-24,BASE_Acquisition_Postpaid_South,1
-25,BASE_Acquisition_Postpaid_South,1
-26,BASE_Acquisition_Postpaid_South,1
-27,BASE_Acquisition_Postpaid_South,1
-28,BASE_Acquisition_Postpaid_South,1
-29,BASE_Acquisition_Postpaid_South,1
-30,BASE_Acquisition_Postpaid_South,1
-31,BASE_Acquisition_Postpaid_South,1
-32,BASE_Acquisition_Postpaid_South,1
-33,BASE_Acquisition_Postpaid_South,1
-34,BASE_Acquisition_Postpaid_South,1
-35,BASE_Acquisition_Postpaid_South,1
-36,BASE_Acquisition_Postpaid_South,1
-37,BASE_Acquisition_Postpaid_South,1
-38,BASE_Acquisition_Postpaid_South,1
-39,BASE_Acquisition_Postpaid_South,1
-40,BASE_Acquisition_Postpaid_South,1
-41,BASE_Acquisition_Postpaid_South,1
-42,BASE_Acquisition_Postpaid_South,1
-43,BASE_Acquisition_Postpaid_South,1
-44,BASE_Acquisition_Postpaid_South,1
-45,BASE_Acquisition_Postpaid_South,1
-46,BASE_Acquisition_Postpaid_South,1
-47,BASE_Acquisition_Postpaid_South,1
-48,BASE_Acquisition_Postpaid_South,1
-49,BASE_Acquisition_Postpaid_South,1
-50,BASE_Acquisition_Postpaid_South,1
-51,BASE_Acquisition_Postpaid_South,1
-52,BASE_Acquisition_Postpaid_South,1
-1,BASE_Acquisition_Prepaid,1
-2,BASE_Acquisition_Prepaid,1
-3,BASE_Acquisition_Prepaid,1
-4,BASE_Acquisition_Prepaid,1
-5,BASE_Acquisition_Prepaid,1
-6,BASE_Acquisition_Prepaid,1
-7,BASE_Acquisition_Prepaid,1
-8,BASE_Acquisition_Prepaid,1
-9,BASE_Acquisition_Prepaid,1
-10,BASE_Acquisition_Prepaid,1
-11,BASE_Acquisition_Prepaid,1
-12,BASE_Acquisition_Prepaid,1
-13,BASE_Acquisition_Prepaid,1
-14,BASE_Acquisition_Prepaid,1
-15,BASE_Acquisition_Prepaid,1
-16,BASE_Acquisition_Prepaid,1
-17,BASE_Acquisition_Prepaid,1
-18,BASE_Acquisition_Prepaid,1
-19,BASE_Acquisition_Prepaid,1
-20,BASE_Acquisition_Prepaid,1
-21,BASE_Acquisition_Prepaid,1
-22,BASE_Acquisition_Prepaid,1
-23,BASE_Acquisition_Prepaid,1
-24,BASE_Acquisition_Prepaid,1
-25,BASE_Acquisition_Prepaid,1
-26,BASE_Acquisition_Prepaid,1
-27,BASE_Acquisition_Prepaid,1
-28,BASE_Acquisition_Prepaid,1
-29,BASE_Acquisition_Prepaid,1
-30,BASE_Acquisition_Prepaid,1
-31,BASE_Acquisition_Prepaid,1
-32,BASE_Acquisition_Prepaid,1
-33,BASE_Acquisition_Prepaid,1
-34,BASE_Acquisition_Prepaid,1
-35,BASE_Acquisition_Prepaid,1
-36,BASE_Acquisition_Prepaid,1
-37,BASE_Acquisition_Prepaid,1
-38,BASE_Acquisition_Prepaid,1
-39,BASE_Acquisition_Prepaid,1
-40,BASE_Acquisition_Prepaid,1
-41,BASE_Acquisition_Prepaid,1
-42,BASE_Acquisition_Prepaid,1
-43,BASE_Acquisition_Prepaid,1
-44,BASE_Acquisition_Prepaid,1
-45,BASE_Acquisition_Prepaid,1
-46,BASE_Acquisition_Prepaid,1
-47,BASE_Acquisition_Prepaid,1
-48,BASE_Acquisition_Prepaid,1
-49,BASE_Acquisition_Prepaid,1
-50,BASE_Acquisition_Prepaid,1
-51,BASE_Acquisition_Prepaid,1
-52,BASE_Acquisition_Prepaid,1
-1,BASE_Churn_Postpaid_South,1
-2,BASE_Churn_Postpaid_South,1
-3,BASE_Churn_Postpaid_South,1
-4,BASE_Churn_Postpaid_South,1
-5,BASE_Churn_Postpaid_South,1
-6,BASE_Churn_Postpaid_South,1
-7,BASE_Churn_Postpaid_South,1
-8,BASE_Churn_Postpaid_South,1
-9,BASE_Churn_Postpaid_South,1
-10,BASE_Churn_Postpaid_South,1
-11,BASE_Churn_Postpaid_South,1
-12,BASE_Churn_Postpaid_South,1
-13,BASE_Churn_Postpaid_South,1
-14,BASE_Churn_Postpaid_South,1
-15,BASE_Churn_Postpaid_South,1
-16,BASE_Churn_Postpaid_South,1
-17,BASE_Churn_Postpaid_South,1
-18,BASE_Churn_Postpaid_South,1
-19,BASE_Churn_Postpaid_South,1
-20,BASE_Churn_Postpaid_South,1
-21,BASE_Churn_Postpaid_South,1
-22,BASE_Churn_Postpaid_South,1
-23,BASE_Churn_Postpaid_South,1
-24,BASE_Churn_Postpaid_South,1
-25,BASE_Churn_Postpaid_South,1
-26,BASE_Churn_Postpaid_South,1
-27,BASE_Churn_Postpaid_South,1
-28,BASE_Churn_Postpaid_South,1
-29,BASE_Churn_Postpaid_South,1
-30,BASE_Churn_Postpaid_South,1
-31,BASE_Churn_Postpaid_South,1
-32,BASE_Churn_Postpaid_South,1
-33,BASE_Churn_Postpaid_South,1
-34,BASE_Churn_Postpaid_South,1
-35,BASE_Churn_Postpaid_South,1
-36,BASE_Churn_Postpaid_South,1
-37,BASE_Churn_Postpaid_South,1
-38,BASE_Churn_Postpaid_South,1
-39,BASE_Churn_Postpaid_South,1
-40,BASE_Churn_Postpaid_South,1
-41,BASE_Churn_Postpaid_South,1
-42,BASE_Churn_Postpaid_South,1
-43,BASE_Churn_Postpaid_South,1
-44,BASE_Churn_Postpaid_South,1
-45,BASE_Churn_Postpaid_South,1
-46,BASE_Churn_Postpaid_South,1
-47,BASE_Churn_Postpaid_South,1
-48,BASE_Churn_Postpaid_South,1
-49,BASE_Churn_Postpaid_South,1
-50,BASE_Churn_Postpaid_South,1
-51,BASE_Churn_Postpaid_South,1
-52,BASE_Churn_Postpaid_South,1
-1,BASE_Churn_Postpaid_North,1
-2,BASE_Churn_Postpaid_North,1
-3,BASE_Churn_Postpaid_North,1
-4,BASE_Churn_Postpaid_North,1
-5,BASE_Churn_Postpaid_North,1
-6,BASE_Churn_Postpaid_North,1
-7,BASE_Churn_Postpaid_North,1
-8,BASE_Churn_Postpaid_North,1
-9,BASE_Churn_Postpaid_North,1
-10,BASE_Churn_Postpaid_North,1
-11,BASE_Churn_Postpaid_North,1
-12,BASE_Churn_Postpaid_North,1
-13,BASE_Churn_Postpaid_North,1
-14,BASE_Churn_Postpaid_North,1
-15,BASE_Churn_Postpaid_North,1
-16,BASE_Churn_Postpaid_North,1
-17,BASE_Churn_Postpaid_North,1
-18,BASE_Churn_Postpaid_North,1
-19,BASE_Churn_Postpaid_North,1
-20,BASE_Churn_Postpaid_North,1
-21,BASE_Churn_Postpaid_North,1
-22,BASE_Churn_Postpaid_North,1
-23,BASE_Churn_Postpaid_North,1
-24,BASE_Churn_Postpaid_North,1
-25,BASE_Churn_Postpaid_North,1
-26,BASE_Churn_Postpaid_North,1
-27,BASE_Churn_Postpaid_North,1
-28,BASE_Churn_Postpaid_North,1
-29,BASE_Churn_Postpaid_North,1
-30,BASE_Churn_Postpaid_North,1
-31,BASE_Churn_Postpaid_North,1
-32,BASE_Churn_Postpaid_North,1
-33,BASE_Churn_Postpaid_North,1
-34,BASE_Churn_Postpaid_North,1
-35,BASE_Churn_Postpaid_North,1
-36,BASE_Churn_Postpaid_North,1
-37,BASE_Churn_Postpaid_North,1
-38,BASE_Churn_Postpaid_North,1
-39,BASE_Churn_Postpaid_North,1
-40,BASE_Churn_Postpaid_North,1
-41,BASE_Churn_Postpaid_North,1
-42,BASE_Churn_Postpaid_North,1
-43,BASE_Churn_Postpaid_North,1
-44,BASE_Churn_Postpaid_North,1
-45,BASE_Churn_Postpaid_North,1
-46,BASE_Churn_Postpaid_North,1
-47,BASE_Churn_Postpaid_North,1
-48,BASE_Churn_Postpaid_North,1
-49,BASE_Churn_Postpaid_North,1
-50,BASE_Churn_Postpaid_North,1
-51,BASE_Churn_Postpaid_North,1
-52,BASE_Churn_Postpaid_North,1
-1,BASE_Prepaid to Postpaid_North,1
-2,BASE_Prepaid to Postpaid_North,1
-3,BASE_Prepaid to Postpaid_North,1
-4,BASE_Prepaid to Postpaid_North,1
-5,BASE_Prepaid to Postpaid_North,1
-6,BASE_Prepaid to Postpaid_North,1
-7,BASE_Prepaid to Postpaid_North,1
-8,BASE_Prepaid to Postpaid_North,1
-9,BASE_Prepaid to Postpaid_North,1
-10,BASE_Prepaid to Postpaid_North,1
-11,BASE_Prepaid to Postpaid_North,1
-12,BASE_Prepaid to Postpaid_North,1
-13,BASE_Prepaid to Postpaid_North,1
-14,BASE_Prepaid to Postpaid_North,1
-15,BASE_Prepaid to Postpaid_North,1
-16,BASE_Prepaid to Postpaid_North,1
-17,BASE_Prepaid to Postpaid_North,1
-18,BASE_Prepaid to Postpaid_North,1
-19,BASE_Prepaid to Postpaid_North,1
-20,BASE_Prepaid to Postpaid_North,1
-21,BASE_Prepaid to Postpaid_North,1
-22,BASE_Prepaid to Postpaid_North,1
-23,BASE_Prepaid to Postpaid_North,1
-24,BASE_Prepaid to Postpaid_North,1
-25,BASE_Prepaid to Postpaid_North,1
-26,BASE_Prepaid to Postpaid_North,1
-27,BASE_Prepaid to Postpaid_North,1
-28,BASE_Prepaid to Postpaid_North,1
-29,BASE_Prepaid to Postpaid_North,1
-30,BASE_Prepaid to Postpaid_North,1
-31,BASE_Prepaid to Postpaid_North,1
-32,BASE_Prepaid to Postpaid_North,1
-33,BASE_Prepaid to Postpaid_North,1
-34,BASE_Prepaid to Postpaid_North,1
-35,BASE_Prepaid to Postpaid_North,1
-36,BASE_Prepaid to Postpaid_North,1
-37,BASE_Prepaid to Postpaid_North,1
-38,BASE_Prepaid to Postpaid_North,1
-39,BASE_Prepaid to Postpaid_North,1
-40,BASE_Prepaid to Postpaid_North,1
-41,BASE_Prepaid to Postpaid_North,1
-42,BASE_Prepaid to Postpaid_North,1
-43,BASE_Prepaid to Postpaid_North,1
-44,BASE_Prepaid to Postpaid_North,1
-45,BASE_Prepaid to Postpaid_North,1
-46,BASE_Prepaid to Postpaid_North,1
-47,BASE_Prepaid to Postpaid_North,1
-48,BASE_Prepaid to Postpaid_North,1
-49,BASE_Prepaid to Postpaid_North,1
-50,BASE_Prepaid to Postpaid_North,1
-51,BASE_Prepaid to Postpaid_North,1
-52,BASE_Prepaid to Postpaid_North,1
-1,BASE_Prepaid to Postpaid_South,1
-2,BASE_Prepaid to Postpaid_South,1
-3,BASE_Prepaid to Postpaid_South,1
-4,BASE_Prepaid to Postpaid_South,1
-5,BASE_Prepaid to Postpaid_South,1
-6,BASE_Prepaid to Postpaid_South,1
-7,BASE_Prepaid to Postpaid_South,1
-8,BASE_Prepaid to Postpaid_South,1
-9,BASE_Prepaid to Postpaid_South,1
-10,BASE_Prepaid to Postpaid_South,1
-11,BASE_Prepaid to Postpaid_South,1
-12,BASE_Prepaid to Postpaid_South,1
-13,BASE_Prepaid to Postpaid_South,1
-14,BASE_Prepaid to Postpaid_South,1
-15,BASE_Prepaid to Postpaid_South,1
-16,BASE_Prepaid to Postpaid_South,1
-17,BASE_Prepaid to Postpaid_South,1
-18,BASE_Prepaid to Postpaid_South,1
-19,BASE_Prepaid to Postpaid_South,1
-20,BASE_Prepaid to Postpaid_South,1
-21,BASE_Prepaid to Postpaid_South,1
-22,BASE_Prepaid to Postpaid_South,1
-23,BASE_Prepaid to Postpaid_South,1
-24,BASE_Prepaid to Postpaid_South,1
-25,BASE_Prepaid to Postpaid_South,1
-26,BASE_Prepaid to Postpaid_South,1
-27,BASE_Prepaid to Postpaid_South,1
-28,BASE_Prepaid to Postpaid_South,1
-29,BASE_Prepaid to Postpaid_South,1
-30,BASE_Prepaid to Postpaid_South,1
-31,BASE_Prepaid to Postpaid_South,1
-32,BASE_Prepaid to Postpaid_South,1
-33,BASE_Prepaid to Postpaid_South,1
-34,BASE_Prepaid to Postpaid_South,1
-35,BASE_Prepaid to Postpaid_South,1
-36,BASE_Prepaid to Postpaid_South,1
-37,BASE_Prepaid to Postpaid_South,1
-38,BASE_Prepaid to Postpaid_South,1
-39,BASE_Prepaid to Postpaid_South,1
-40,BASE_Prepaid to Postpaid_South,1
-41,BASE_Prepaid to Postpaid_South,1
-42,BASE_Prepaid to Postpaid_South,1
-43,BASE_Prepaid to Postpaid_South,1
-44,BASE_Prepaid to Postpaid_South,1
-45,BASE_Prepaid to Postpaid_South,1
-46,BASE_Prepaid to Postpaid_South,1
-47,BASE_Prepaid to Postpaid_South,1
-48,BASE_Prepaid to Postpaid_South,1
-49,BASE_Prepaid to Postpaid_South,1
-50,BASE_Prepaid to Postpaid_South,1
-51,BASE_Prepaid to Postpaid_South,1
-52,BASE_Prepaid to Postpaid_South,1
+1,Acquisition Bundles,1
+2,Acquisition Bundles,1
+3,Acquisition Bundles,1
+4,Acquisition Bundles,1
+5,Acquisition Bundles,1
+6,Acquisition Bundles,1
+7,Acquisition Bundles,1
+8,Acquisition Bundles,1
+9,Acquisition Bundles,1
+10,Acquisition Bundles,1
+11,Acquisition Bundles,1
+12,Acquisition Bundles,1
+13,Acquisition Bundles,1
+14,Acquisition Bundles,1
+15,Acquisition Bundles,1
+16,Acquisition Bundles,1
+17,Acquisition Bundles,1
+18,Acquisition Bundles,1
+19,Acquisition Bundles,1
+20,Acquisition Bundles,1
+21,Acquisition Bundles,1
+22,Acquisition Bundles,1
+23,Acquisition Bundles,1
+24,Acquisition Bundles,1
+25,Acquisition Bundles,1
+26,Acquisition Bundles,1
+27,Acquisition Bundles,1
+28,Acquisition Bundles,1
+29,Acquisition Bundles,1
+30,Acquisition Bundles,1
+31,Acquisition Bundles,1
+32,Acquisition Bundles,1
+33,Acquisition Bundles,1
+34,Acquisition Bundles,1
+35,Acquisition Bundles,1
+36,Acquisition Bundles,1
+37,Acquisition Bundles,1
+38,Acquisition Bundles,1
+39,Acquisition Bundles,1
+40,Acquisition Bundles,1
+41,Acquisition Bundles,1
+42,Acquisition Bundles,1
+43,Acquisition Bundles,1
+44,Acquisition Bundles,1
+45,Acquisition Bundles,1
+46,Acquisition Bundles,1
+47,Acquisition Bundles,1
+48,Acquisition Bundles,1
+49,Acquisition Bundles,1
+50,Acquisition Bundles,1
+51,Acquisition Bundles,1
+52,Acquisition Bundles,1
+1,Cross-Sell Mobile,1
+2,Cross-Sell Mobile,1
+3,Cross-Sell Mobile,1
+4,Cross-Sell Mobile,1
+5,Cross-Sell Mobile,1
+6,Cross-Sell Mobile,1
+7,Cross-Sell Mobile,1
+8,Cross-Sell Mobile,1
+9,Cross-Sell Mobile,1
+10,Cross-Sell Mobile,1
+11,Cross-Sell Mobile,1
+12,Cross-Sell Mobile,1
+13,Cross-Sell Mobile,1
+14,Cross-Sell Mobile,1
+15,Cross-Sell Mobile,1
+16,Cross-Sell Mobile,1
+17,Cross-Sell Mobile,1
+18,Cross-Sell Mobile,1
+19,Cross-Sell Mobile,1
+20,Cross-Sell Mobile,1
+21,Cross-Sell Mobile,1
+22,Cross-Sell Mobile,1
+23,Cross-Sell Mobile,1
+24,Cross-Sell Mobile,1
+25,Cross-Sell Mobile,1
+26,Cross-Sell Mobile,1
+27,Cross-Sell Mobile,1
+28,Cross-Sell Mobile,1
+29,Cross-Sell Mobile,1
+30,Cross-Sell Mobile,1
+31,Cross-Sell Mobile,1
+32,Cross-Sell Mobile,1
+33,Cross-Sell Mobile,1
+34,Cross-Sell Mobile,1
+35,Cross-Sell Mobile,1
+36,Cross-Sell Mobile,1
+37,Cross-Sell Mobile,1
+38,Cross-Sell Mobile,1
+39,Cross-Sell Mobile,1
+40,Cross-Sell Mobile,1
+41,Cross-Sell Mobile,1
+42,Cross-Sell Mobile,1
+43,Cross-Sell Mobile,1
+44,Cross-Sell Mobile,1
+45,Cross-Sell Mobile,1
+46,Cross-Sell Mobile,1
+47,Cross-Sell Mobile,1
+48,Cross-Sell Mobile,1
+49,Cross-Sell Mobile,1
+50,Cross-Sell Mobile,1
+51,Cross-Sell Mobile,1
+52,Cross-Sell Mobile,1
+1,Acquisition Internet Only,1
+2,Acquisition Internet Only,1
+3,Acquisition Internet Only,1
+4,Acquisition Internet Only,1
+5,Acquisition Internet Only,1
+6,Acquisition Internet Only,1
+7,Acquisition Internet Only,1
+8,Acquisition Internet Only,1
+9,Acquisition Internet Only,1
+10,Acquisition Internet Only,1
+11,Acquisition Internet Only,1
+12,Acquisition Internet Only,1
+13,Acquisition Internet Only,1
+14,Acquisition Internet Only,1
+15,Acquisition Internet Only,1
+16,Acquisition Internet Only,1
+17,Acquisition Internet Only,1
+18,Acquisition Internet Only,1
+19,Acquisition Internet Only,1
+20,Acquisition Internet Only,1
+21,Acquisition Internet Only,1
+22,Acquisition Internet Only,1
+23,Acquisition Internet Only,1
+24,Acquisition Internet Only,1
+25,Acquisition Internet Only,1
+26,Acquisition Internet Only,1
+27,Acquisition Internet Only,1
+28,Acquisition Internet Only,1
+29,Acquisition Internet Only,1
+30,Acquisition Internet Only,1
+31,Acquisition Internet Only,1
+32,Acquisition Internet Only,1
+33,Acquisition Internet Only,1
+34,Acquisition Internet Only,1
+35,Acquisition Internet Only,1
+36,Acquisition Internet Only,1
+37,Acquisition Internet Only,1
+38,Acquisition Internet Only,1
+39,Acquisition Internet Only,1
+40,Acquisition Internet Only,1
+41,Acquisition Internet Only,1
+42,Acquisition Internet Only,1
+43,Acquisition Internet Only,1
+44,Acquisition Internet Only,1
+45,Acquisition Internet Only,1
+46,Acquisition Internet Only,1
+47,Acquisition Internet Only,1
+48,Acquisition Internet Only,1
+49,Acquisition Internet Only,1
+50,Acquisition Internet Only,1
+51,Acquisition Internet Only,1
+52,Acquisition Internet Only,1
+1,Acquisition DTV - TV only,1
+2,Acquisition DTV - TV only,1
+3,Acquisition DTV - TV only,1
+4,Acquisition DTV - TV only,1
+5,Acquisition DTV - TV only,1
+6,Acquisition DTV - TV only,1
+7,Acquisition DTV - TV only,1
+8,Acquisition DTV - TV only,1
+9,Acquisition DTV - TV only,1
+10,Acquisition DTV - TV only,1
+11,Acquisition DTV - TV only,1
+12,Acquisition DTV - TV only,1
+13,Acquisition DTV - TV only,1
+14,Acquisition DTV - TV only,1
+15,Acquisition DTV - TV only,1
+16,Acquisition DTV - TV only,1
+17,Acquisition DTV - TV only,1
+18,Acquisition DTV - TV only,1
+19,Acquisition DTV - TV only,1
+20,Acquisition DTV - TV only,1
+21,Acquisition DTV - TV only,1
+22,Acquisition DTV - TV only,1
+23,Acquisition DTV - TV only,1
+24,Acquisition DTV - TV only,1
+25,Acquisition DTV - TV only,1
+26,Acquisition DTV - TV only,1
+27,Acquisition DTV - TV only,1
+28,Acquisition DTV - TV only,1
+29,Acquisition DTV - TV only,1
+30,Acquisition DTV - TV only,1
+31,Acquisition DTV - TV only,1
+32,Acquisition DTV - TV only,1
+33,Acquisition DTV - TV only,1
+34,Acquisition DTV - TV only,1
+35,Acquisition DTV - TV only,1
+36,Acquisition DTV - TV only,1
+37,Acquisition DTV - TV only,1
+38,Acquisition DTV - TV only,1
+39,Acquisition DTV - TV only,1
+40,Acquisition DTV - TV only,1
+41,Acquisition DTV - TV only,1
+42,Acquisition DTV - TV only,1
+43,Acquisition DTV - TV only,1
+44,Acquisition DTV - TV only,1
+45,Acquisition DTV - TV only,1
+46,Acquisition DTV - TV only,1
+47,Acquisition DTV - TV only,1
+48,Acquisition DTV - TV only,1
+49,Acquisition DTV - TV only,1
+50,Acquisition DTV - TV only,1
+51,Acquisition DTV - TV only,1
+52,Acquisition DTV - TV only,1
+1,Up-Sell Whop to Whoppa,1
+2,Up-Sell Whop to Whoppa,1
+3,Up-Sell Whop to Whoppa,1
+4,Up-Sell Whop to Whoppa,1
+5,Up-Sell Whop to Whoppa,1
+6,Up-Sell Whop to Whoppa,1
+7,Up-Sell Whop to Whoppa,1
+8,Up-Sell Whop to Whoppa,1
+9,Up-Sell Whop to Whoppa,1
+10,Up-Sell Whop to Whoppa,1
+11,Up-Sell Whop to Whoppa,1
+12,Up-Sell Whop to Whoppa,1
+13,Up-Sell Whop to Whoppa,1
+14,Up-Sell Whop to Whoppa,1
+15,Up-Sell Whop to Whoppa,1
+16,Up-Sell Whop to Whoppa,1
+17,Up-Sell Whop to Whoppa,1
+18,Up-Sell Whop to Whoppa,1
+19,Up-Sell Whop to Whoppa,1
+20,Up-Sell Whop to Whoppa,1
+21,Up-Sell Whop to Whoppa,1
+22,Up-Sell Whop to Whoppa,1
+23,Up-Sell Whop to Whoppa,1
+24,Up-Sell Whop to Whoppa,1
+25,Up-Sell Whop to Whoppa,1
+26,Up-Sell Whop to Whoppa,1
+27,Up-Sell Whop to Whoppa,1
+28,Up-Sell Whop to Whoppa,1
+29,Up-Sell Whop to Whoppa,1
+30,Up-Sell Whop to Whoppa,1
+31,Up-Sell Whop to Whoppa,1
+32,Up-Sell Whop to Whoppa,1
+33,Up-Sell Whop to Whoppa,1
+34,Up-Sell Whop to Whoppa,1
+35,Up-Sell Whop to Whoppa,1
+36,Up-Sell Whop to Whoppa,1
+37,Up-Sell Whop to Whoppa,1
+38,Up-Sell Whop to Whoppa,1
+39,Up-Sell Whop to Whoppa,1
+40,Up-Sell Whop to Whoppa,1
+41,Up-Sell Whop to Whoppa,1
+42,Up-Sell Whop to Whoppa,1
+43,Up-Sell Whop to Whoppa,1
+44,Up-Sell Whop to Whoppa,1
+45,Up-Sell Whop to Whoppa,1
+46,Up-Sell Whop to Whoppa,1
+47,Up-Sell Whop to Whoppa,1
+48,Up-Sell Whop to Whoppa,1
+49,Up-Sell Whop to Whoppa,1
+50,Up-Sell Whop to Whoppa,1
+51,Up-Sell Whop to Whoppa,1
+52,Up-Sell Whop to Whoppa,1
+1,Churn mobile,1
+2,Churn mobile,1
+3,Churn mobile,1
+4,Churn mobile,1
+5,Churn mobile,1
+6,Churn mobile,1
+7,Churn mobile,1
+8,Churn mobile,1
+9,Churn mobile,1
+10,Churn mobile,1
+11,Churn mobile,1
+12,Churn mobile,1
+13,Churn mobile,1
+14,Churn mobile,1
+15,Churn mobile,1
+16,Churn mobile,1
+17,Churn mobile,1
+18,Churn mobile,1
+19,Churn mobile,1
+20,Churn mobile,1
+21,Churn mobile,1
+22,Churn mobile,1
+23,Churn mobile,1
+24,Churn mobile,1
+25,Churn mobile,1
+26,Churn mobile,1
+27,Churn mobile,1
+28,Churn mobile,1
+29,Churn mobile,1
+30,Churn mobile,1
+31,Churn mobile,1
+32,Churn mobile,1
+33,Churn mobile,1
+34,Churn mobile,1
+35,Churn mobile,1
+36,Churn mobile,1
+37,Churn mobile,1
+38,Churn mobile,1
+39,Churn mobile,1
+40,Churn mobile,1
+41,Churn mobile,1
+42,Churn mobile,1
+43,Churn mobile,1
+44,Churn mobile,1
+45,Churn mobile,1
+46,Churn mobile,1
+47,Churn mobile,1
+48,Churn mobile,1
+49,Churn mobile,1
+50,Churn mobile,1
+51,Churn mobile,1
+52,Churn mobile,1
+1,Churn 2P 3P 4P,1
+2,Churn 2P 3P 4P,1
+3,Churn 2P 3P 4P,1
+4,Churn 2P 3P 4P,1
+5,Churn 2P 3P 4P,1
+6,Churn 2P 3P 4P,1
+7,Churn 2P 3P 4P,1
+8,Churn 2P 3P 4P,1
+9,Churn 2P 3P 4P,1
+10,Churn 2P 3P 4P,1
+11,Churn 2P 3P 4P,1
+12,Churn 2P 3P 4P,1
+13,Churn 2P 3P 4P,1
+14,Churn 2P 3P 4P,1
+15,Churn 2P 3P 4P,1
+16,Churn 2P 3P 4P,1
+17,Churn 2P 3P 4P,1
+18,Churn 2P 3P 4P,1
+19,Churn 2P 3P 4P,1
+20,Churn 2P 3P 4P,1
+21,Churn 2P 3P 4P,1
+22,Churn 2P 3P 4P,1
+23,Churn 2P 3P 4P,1
+24,Churn 2P 3P 4P,1
+25,Churn 2P 3P 4P,1
+26,Churn 2P 3P 4P,1
+27,Churn 2P 3P 4P,1
+28,Churn 2P 3P 4P,1
+29,Churn 2P 3P 4P,1
+30,Churn 2P 3P 4P,1
+31,Churn 2P 3P 4P,1
+32,Churn 2P 3P 4P,1
+33,Churn 2P 3P 4P,1
+34,Churn 2P 3P 4P,1
+35,Churn 2P 3P 4P,1
+36,Churn 2P 3P 4P,1
+37,Churn 2P 3P 4P,1
+38,Churn 2P 3P 4P,1
+39,Churn 2P 3P 4P,1
+40,Churn 2P 3P 4P,1
+41,Churn 2P 3P 4P,1
+42,Churn 2P 3P 4P,1
+43,Churn 2P 3P 4P,1
+44,Churn 2P 3P 4P,1
+45,Churn 2P 3P 4P,1
+46,Churn 2P 3P 4P,1
+47,Churn 2P 3P 4P,1
+48,Churn 2P 3P 4P,1
+49,Churn 2P 3P 4P,1
+50,Churn 2P 3P 4P,1
+51,Churn 2P 3P 4P,1
+52,Churn 2P 3P 4P,1
+1,Churn 1P (INT or DTV),1
+2,Churn 1P (INT or DTV),1
+3,Churn 1P (INT or DTV),1
+4,Churn 1P (INT or DTV),1
+5,Churn 1P (INT or DTV),1
+6,Churn 1P (INT or DTV),1
+7,Churn 1P (INT or DTV),1
+8,Churn 1P (INT or DTV),1
+9,Churn 1P (INT or DTV),1
+10,Churn 1P (INT or DTV),1
+11,Churn 1P (INT or DTV),1
+12,Churn 1P (INT or DTV),1
+13,Churn 1P (INT or DTV),1
+14,Churn 1P (INT or DTV),1
+15,Churn 1P (INT or DTV),1
+16,Churn 1P (INT or DTV),1
+17,Churn 1P (INT or DTV),1
+18,Churn 1P (INT or DTV),1
+19,Churn 1P (INT or DTV),1
+20,Churn 1P (INT or DTV),1
+21,Churn 1P (INT or DTV),1
+22,Churn 1P (INT or DTV),1
+23,Churn 1P (INT or DTV),1
+24,Churn 1P (INT or DTV),1
+25,Churn 1P (INT or DTV),1
+26,Churn 1P (INT or DTV),1
+27,Churn 1P (INT or DTV),1
+28,Churn 1P (INT or DTV),1
+29,Churn 1P (INT or DTV),1
+30,Churn 1P (INT or DTV),1
+31,Churn 1P (INT or DTV),1
+32,Churn 1P (INT or DTV),1
+33,Churn 1P (INT or DTV),1
+34,Churn 1P (INT or DTV),1
+35,Churn 1P (INT or DTV),1
+36,Churn 1P (INT or DTV),1
+37,Churn 1P (INT or DTV),1
+38,Churn 1P (INT or DTV),1
+39,Churn 1P (INT or DTV),1
+40,Churn 1P (INT or DTV),1
+41,Churn 1P (INT or DTV),1
+42,Churn 1P (INT or DTV),1
+43,Churn 1P (INT or DTV),1
+44,Churn 1P (INT or DTV),1
+45,Churn 1P (INT or DTV),1
+46,Churn 1P (INT or DTV),1
+47,Churn 1P (INT or DTV),1
+48,Churn 1P (INT or DTV),1
+49,Churn 1P (INT or DTV),1
+50,Churn 1P (INT or DTV),1
+51,Churn 1P (INT or DTV),1
+52,Churn 1P (INT or DTV),1
+1,Up-sell Play to Play More,1
+2,Up-sell Play to Play More,1
+3,Up-sell Play to Play More,1
+4,Up-sell Play to Play More,1
+5,Up-sell Play to Play More,1
+6,Up-sell Play to Play More,1
+7,Up-sell Play to Play More,1
+8,Up-sell Play to Play More,1
+9,Up-sell Play to Play More,1
+10,Up-sell Play to Play More,1
+11,Up-sell Play to Play More,1
+12,Up-sell Play to Play More,1
+13,Up-sell Play to Play More,1
+14,Up-sell Play to Play More,1
+15,Up-sell Play to Play More,1
+16,Up-sell Play to Play More,1
+17,Up-sell Play to Play More,1
+18,Up-sell Play to Play More,1
+19,Up-sell Play to Play More,1
+20,Up-sell Play to Play More,1
+21,Up-sell Play to Play More,1
+22,Up-sell Play to Play More,1
+23,Up-sell Play to Play More,1
+24,Up-sell Play to Play More,1
+25,Up-sell Play to Play More,1
+26,Up-sell Play to Play More,1
+27,Up-sell Play to Play More,1
+28,Up-sell Play to Play More,1
+29,Up-sell Play to Play More,1
+30,Up-sell Play to Play More,1
+31,Up-sell Play to Play More,1
+32,Up-sell Play to Play More,1
+33,Up-sell Play to Play More,1
+34,Up-sell Play to Play More,1
+35,Up-sell Play to Play More,1
+36,Up-sell Play to Play More,1
+37,Up-sell Play to Play More,1
+38,Up-sell Play to Play More,1
+39,Up-sell Play to Play More,1
+40,Up-sell Play to Play More,1
+41,Up-sell Play to Play More,1
+42,Up-sell Play to Play More,1
+43,Up-sell Play to Play More,1
+44,Up-sell Play to Play More,1
+45,Up-sell Play to Play More,1
+46,Up-sell Play to Play More,1
+47,Up-sell Play to Play More,1
+48,Up-sell Play to Play More,1
+49,Up-sell Play to Play More,1
+50,Up-sell Play to Play More,1
+51,Up-sell Play to Play More,1
+52,Up-sell Play to Play More,1
+1,Acquisition Play,1
+2,Acquisition Play,1
+3,Acquisition Play,1
+4,Acquisition Play,1
+5,Acquisition Play,1
+6,Acquisition Play,1
+7,Acquisition Play,1
+8,Acquisition Play,1
+9,Acquisition Play,1
+10,Acquisition Play,1
+11,Acquisition Play,1
+12,Acquisition Play,1
+13,Acquisition Play,1
+14,Acquisition Play,1
+15,Acquisition Play,1
+16,Acquisition Play,1
+17,Acquisition Play,1
+18,Acquisition Play,1
+19,Acquisition Play,1
+20,Acquisition Play,1
+21,Acquisition Play,1
+22,Acquisition Play,1
+23,Acquisition Play,1
+24,Acquisition Play,1
+25,Acquisition Play,1
+26,Acquisition Play,1
+27,Acquisition Play,1
+28,Acquisition Play,1
+29,Acquisition Play,1
+30,Acquisition Play,1
+31,Acquisition Play,1
+32,Acquisition Play,1
+33,Acquisition Play,1
+34,Acquisition Play,1
+35,Acquisition Play,1
+36,Acquisition Play,1
+37,Acquisition Play,1
+38,Acquisition Play,1
+39,Acquisition Play,1
+40,Acquisition Play,1
+41,Acquisition Play,1
+42,Acquisition Play,1
+43,Acquisition Play,1
+44,Acquisition Play,1
+45,Acquisition Play,1
+46,Acquisition Play,1
+47,Acquisition Play,1
+48,Acquisition Play,1
+49,Acquisition Play,1
+50,Acquisition Play,1
+51,Acquisition Play,1
+52,Acquisition Play,1
+1,Acquisition Play Sports,1
+2,Acquisition Play Sports,1
+3,Acquisition Play Sports,1
+4,Acquisition Play Sports,1
+5,Acquisition Play Sports,1
+6,Acquisition Play Sports,1
+7,Acquisition Play Sports,1
+8,Acquisition Play Sports,1
+9,Acquisition Play Sports,1
+10,Acquisition Play Sports,1
+11,Acquisition Play Sports,1
+12,Acquisition Play Sports,1
+13,Acquisition Play Sports,1
+14,Acquisition Play Sports,1
+15,Acquisition Play Sports,1
+16,Acquisition Play Sports,1
+17,Acquisition Play Sports,1
+18,Acquisition Play Sports,1
+19,Acquisition Play Sports,1
+20,Acquisition Play Sports,1
+21,Acquisition Play Sports,1
+22,Acquisition Play Sports,1
+23,Acquisition Play Sports,1
+24,Acquisition Play Sports,1
+25,Acquisition Play Sports,1
+26,Acquisition Play Sports,1
+27,Acquisition Play Sports,1
+28,Acquisition Play Sports,1
+29,Acquisition Play Sports,1
+30,Acquisition Play Sports,1
+31,Acquisition Play Sports,1
+32,Acquisition Play Sports,1
+33,Acquisition Play Sports,1
+34,Acquisition Play Sports,1
+35,Acquisition Play Sports,1
+36,Acquisition Play Sports,1
+37,Acquisition Play Sports,1
+38,Acquisition Play Sports,1
+39,Acquisition Play Sports,1
+40,Acquisition Play Sports,1
+41,Acquisition Play Sports,1
+42,Acquisition Play Sports,1
+43,Acquisition Play Sports,1
+44,Acquisition Play Sports,1
+45,Acquisition Play Sports,1
+46,Acquisition Play Sports,1
+47,Acquisition Play Sports,1
+48,Acquisition Play Sports,1
+49,Acquisition Play Sports,1
+50,Acquisition Play Sports,1
+51,Acquisition Play Sports,1
+52,Acquisition Play Sports,1
+1,Acquisition Play More,1
+2,Acquisition Play More,1
+3,Acquisition Play More,1
+4,Acquisition Play More,1
+5,Acquisition Play More,1
+6,Acquisition Play More,1
+7,Acquisition Play More,1
+8,Acquisition Play More,1
+9,Acquisition Play More,1
+10,Acquisition Play More,1
+11,Acquisition Play More,1
+12,Acquisition Play More,1
+13,Acquisition Play More,1
+14,Acquisition Play More,1
+15,Acquisition Play More,1
+16,Acquisition Play More,1
+17,Acquisition Play More,1
+18,Acquisition Play More,1
+19,Acquisition Play More,1
+20,Acquisition Play More,1
+21,Acquisition Play More,1
+22,Acquisition Play More,1
+23,Acquisition Play More,1
+24,Acquisition Play More,1
+25,Acquisition Play More,1
+26,Acquisition Play More,1
+27,Acquisition Play More,1
+28,Acquisition Play More,1
+29,Acquisition Play More,1
+30,Acquisition Play More,1
+31,Acquisition Play More,1
+32,Acquisition Play More,1
+33,Acquisition Play More,1
+34,Acquisition Play More,1
+35,Acquisition Play More,1
+36,Acquisition Play More,1
+37,Acquisition Play More,1
+38,Acquisition Play More,1
+39,Acquisition Play More,1
+40,Acquisition Play More,1
+41,Acquisition Play More,1
+42,Acquisition Play More,1
+43,Acquisition Play More,1
+44,Acquisition Play More,1
+45,Acquisition Play More,1
+46,Acquisition Play More,1
+47,Acquisition Play More,1
+48,Acquisition Play More,1
+49,Acquisition Play More,1
+50,Acquisition Play More,1
+51,Acquisition Play More,1
+52,Acquisition Play More,1
+1,Churn entertainment,1
+2,Churn entertainment,1
+3,Churn entertainment,1
+4,Churn entertainment,1
+5,Churn entertainment,1
+6,Churn entertainment,1
+7,Churn entertainment,1
+8,Churn entertainment,1
+9,Churn entertainment,1
+10,Churn entertainment,1
+11,Churn entertainment,1
+12,Churn entertainment,1
+13,Churn entertainment,1
+14,Churn entertainment,1
+15,Churn entertainment,1
+16,Churn entertainment,1
+17,Churn entertainment,1
+18,Churn entertainment,1
+19,Churn entertainment,1
+20,Churn entertainment,1
+21,Churn entertainment,1
+22,Churn entertainment,1
+23,Churn entertainment,1
+24,Churn entertainment,1
+25,Churn entertainment,1
+26,Churn entertainment,1
+27,Churn entertainment,1
+28,Churn entertainment,1
+29,Churn entertainment,1
+30,Churn entertainment,1
+31,Churn entertainment,1
+32,Churn entertainment,1
+33,Churn entertainment,1
+34,Churn entertainment,1
+35,Churn entertainment,1
+36,Churn entertainment,1
+37,Churn entertainment,1
+38,Churn entertainment,1
+39,Churn entertainment,1
+40,Churn entertainment,1
+41,Churn entertainment,1
+42,Churn entertainment,1
+43,Churn entertainment,1
+44,Churn entertainment,1
+45,Churn entertainment,1
+46,Churn entertainment,1
+47,Churn entertainment,1
+48,Churn entertainment,1
+49,Churn entertainment,1
+50,Churn entertainment,1
+51,Churn entertainment,1
+52,Churn entertainment,1
+1,Acquisition - Postpaid - North,1
+2,Acquisition - Postpaid - North,1
+3,Acquisition - Postpaid - North,1
+4,Acquisition - Postpaid - North,1
+5,Acquisition - Postpaid - North,1
+6,Acquisition - Postpaid - North,1
+7,Acquisition - Postpaid - North,1
+8,Acquisition - Postpaid - North,1
+9,Acquisition - Postpaid - North,1
+10,Acquisition - Postpaid - North,1
+11,Acquisition - Postpaid - North,1
+12,Acquisition - Postpaid - North,1
+13,Acquisition - Postpaid - North,1
+14,Acquisition - Postpaid - North,1
+15,Acquisition - Postpaid - North,1
+16,Acquisition - Postpaid - North,1
+17,Acquisition - Postpaid - North,1
+18,Acquisition - Postpaid - North,1
+19,Acquisition - Postpaid - North,1
+20,Acquisition - Postpaid - North,1
+21,Acquisition - Postpaid - North,1
+22,Acquisition - Postpaid - North,1
+23,Acquisition - Postpaid - North,1
+24,Acquisition - Postpaid - North,1
+25,Acquisition - Postpaid - North,1
+26,Acquisition - Postpaid - North,1
+27,Acquisition - Postpaid - North,1
+28,Acquisition - Postpaid - North,1
+29,Acquisition - Postpaid - North,1
+30,Acquisition - Postpaid - North,1
+31,Acquisition - Postpaid - North,1
+32,Acquisition - Postpaid - North,1
+33,Acquisition - Postpaid - North,1
+34,Acquisition - Postpaid - North,1
+35,Acquisition - Postpaid - North,1
+36,Acquisition - Postpaid - North,1
+37,Acquisition - Postpaid - North,1
+38,Acquisition - Postpaid - North,1
+39,Acquisition - Postpaid - North,1
+40,Acquisition - Postpaid - North,1
+41,Acquisition - Postpaid - North,1
+42,Acquisition - Postpaid - North,1
+43,Acquisition - Postpaid - North,1
+44,Acquisition - Postpaid - North,1
+45,Acquisition - Postpaid - North,1
+46,Acquisition - Postpaid - North,1
+47,Acquisition - Postpaid - North,1
+48,Acquisition - Postpaid - North,1
+49,Acquisition - Postpaid - North,1
+50,Acquisition - Postpaid - North,1
+51,Acquisition - Postpaid - North,1
+52,Acquisition - Postpaid - North,1
+1,Acquisition - Postpaid - South,1
+2,Acquisition - Postpaid - South,1
+3,Acquisition - Postpaid - South,1
+4,Acquisition - Postpaid - South,1
+5,Acquisition - Postpaid - South,1
+6,Acquisition - Postpaid - South,1
+7,Acquisition - Postpaid - South,1
+8,Acquisition - Postpaid - South,1
+9,Acquisition - Postpaid - South,1
+10,Acquisition - Postpaid - South,1
+11,Acquisition - Postpaid - South,1
+12,Acquisition - Postpaid - South,1
+13,Acquisition - Postpaid - South,1
+14,Acquisition - Postpaid - South,1
+15,Acquisition - Postpaid - South,1
+16,Acquisition - Postpaid - South,1
+17,Acquisition - Postpaid - South,1
+18,Acquisition - Postpaid - South,1
+19,Acquisition - Postpaid - South,1
+20,Acquisition - Postpaid - South,1
+21,Acquisition - Postpaid - South,1
+22,Acquisition - Postpaid - South,1
+23,Acquisition - Postpaid - South,1
+24,Acquisition - Postpaid - South,1
+25,Acquisition - Postpaid - South,1
+26,Acquisition - Postpaid - South,1
+27,Acquisition - Postpaid - South,1
+28,Acquisition - Postpaid - South,1
+29,Acquisition - Postpaid - South,1
+30,Acquisition - Postpaid - South,1
+31,Acquisition - Postpaid - South,1
+32,Acquisition - Postpaid - South,1
+33,Acquisition - Postpaid - South,1
+34,Acquisition - Postpaid - South,1
+35,Acquisition - Postpaid - South,1
+36,Acquisition - Postpaid - South,1
+37,Acquisition - Postpaid - South,1
+38,Acquisition - Postpaid - South,1
+39,Acquisition - Postpaid - South,1
+40,Acquisition - Postpaid - South,1
+41,Acquisition - Postpaid - South,1
+42,Acquisition - Postpaid - South,1
+43,Acquisition - Postpaid - South,1
+44,Acquisition - Postpaid - South,1
+45,Acquisition - Postpaid - South,1
+46,Acquisition - Postpaid - South,1
+47,Acquisition - Postpaid - South,1
+48,Acquisition - Postpaid - South,1
+49,Acquisition - Postpaid - South,1
+50,Acquisition - Postpaid - South,1
+51,Acquisition - Postpaid - South,1
+52,Acquisition - Postpaid - South,1
+1,Acquisition - Prepaid - North,1
+2,Acquisition - Prepaid - North,1
+3,Acquisition - Prepaid - North,1
+4,Acquisition - Prepaid - North,1
+5,Acquisition - Prepaid - North,1
+6,Acquisition - Prepaid - North,1
+7,Acquisition - Prepaid - North,1
+8,Acquisition - Prepaid - North,1
+9,Acquisition - Prepaid - North,1
+10,Acquisition - Prepaid - North,1
+11,Acquisition - Prepaid - North,1
+12,Acquisition - Prepaid - North,1
+13,Acquisition - Prepaid - North,1
+14,Acquisition - Prepaid - North,1
+15,Acquisition - Prepaid - North,1
+16,Acquisition - Prepaid - North,1
+17,Acquisition - Prepaid - North,1
+18,Acquisition - Prepaid - North,1
+19,Acquisition - Prepaid - North,1
+20,Acquisition - Prepaid - North,1
+21,Acquisition - Prepaid - North,1
+22,Acquisition - Prepaid - North,1
+23,Acquisition - Prepaid - North,1
+24,Acquisition - Prepaid - North,1
+25,Acquisition - Prepaid - North,1
+26,Acquisition - Prepaid - North,1
+27,Acquisition - Prepaid - North,1
+28,Acquisition - Prepaid - North,1
+29,Acquisition - Prepaid - North,1
+30,Acquisition - Prepaid - North,1
+31,Acquisition - Prepaid - North,1
+32,Acquisition - Prepaid - North,1
+33,Acquisition - Prepaid - North,1
+34,Acquisition - Prepaid - North,1
+35,Acquisition - Prepaid - North,1
+36,Acquisition - Prepaid - North,1
+37,Acquisition - Prepaid - North,1
+38,Acquisition - Prepaid - North,1
+39,Acquisition - Prepaid - North,1
+40,Acquisition - Prepaid - North,1
+41,Acquisition - Prepaid - North,1
+42,Acquisition - Prepaid - North,1
+43,Acquisition - Prepaid - North,1
+44,Acquisition - Prepaid - North,1
+45,Acquisition - Prepaid - North,1
+46,Acquisition - Prepaid - North,1
+47,Acquisition - Prepaid - North,1
+48,Acquisition - Prepaid - North,1
+49,Acquisition - Prepaid - North,1
+50,Acquisition - Prepaid - North,1
+51,Acquisition - Prepaid - North,1
+52,Acquisition - Prepaid - North,1
+1,Churn - Postpaid - South,1
+2,Churn - Postpaid - South,1
+3,Churn - Postpaid - South,1
+4,Churn - Postpaid - South,1
+5,Churn - Postpaid - South,1
+6,Churn - Postpaid - South,1
+7,Churn - Postpaid - South,1
+8,Churn - Postpaid - South,1
+9,Churn - Postpaid - South,1
+10,Churn - Postpaid - South,1
+11,Churn - Postpaid - South,1
+12,Churn - Postpaid - South,1
+13,Churn - Postpaid - South,1
+14,Churn - Postpaid - South,1
+15,Churn - Postpaid - South,1
+16,Churn - Postpaid - South,1
+17,Churn - Postpaid - South,1
+18,Churn - Postpaid - South,1
+19,Churn - Postpaid - South,1
+20,Churn - Postpaid - South,1
+21,Churn - Postpaid - South,1
+22,Churn - Postpaid - South,1
+23,Churn - Postpaid - South,1
+24,Churn - Postpaid - South,1
+25,Churn - Postpaid - South,1
+26,Churn - Postpaid - South,1
+27,Churn - Postpaid - South,1
+28,Churn - Postpaid - South,1
+29,Churn - Postpaid - South,1
+30,Churn - Postpaid - South,1
+31,Churn - Postpaid - South,1
+32,Churn - Postpaid - South,1
+33,Churn - Postpaid - South,1
+34,Churn - Postpaid - South,1
+35,Churn - Postpaid - South,1
+36,Churn - Postpaid - South,1
+37,Churn - Postpaid - South,1
+38,Churn - Postpaid - South,1
+39,Churn - Postpaid - South,1
+40,Churn - Postpaid - South,1
+41,Churn - Postpaid - South,1
+42,Churn - Postpaid - South,1
+43,Churn - Postpaid - South,1
+44,Churn - Postpaid - South,1
+45,Churn - Postpaid - South,1
+46,Churn - Postpaid - South,1
+47,Churn - Postpaid - South,1
+48,Churn - Postpaid - South,1
+49,Churn - Postpaid - South,1
+50,Churn - Postpaid - South,1
+51,Churn - Postpaid - South,1
+52,Churn - Postpaid - South,1
+1,Churn - Postpaid - North,1
+2,Churn - Postpaid - North,1
+3,Churn - Postpaid - North,1
+4,Churn - Postpaid - North,1
+5,Churn - Postpaid - North,1
+6,Churn - Postpaid - North,1
+7,Churn - Postpaid - North,1
+8,Churn - Postpaid - North,1
+9,Churn - Postpaid - North,1
+10,Churn - Postpaid - North,1
+11,Churn - Postpaid - North,1
+12,Churn - Postpaid - North,1
+13,Churn - Postpaid - North,1
+14,Churn - Postpaid - North,1
+15,Churn - Postpaid - North,1
+16,Churn - Postpaid - North,1
+17,Churn - Postpaid - North,1
+18,Churn - Postpaid - North,1
+19,Churn - Postpaid - North,1
+20,Churn - Postpaid - North,1
+21,Churn - Postpaid - North,1
+22,Churn - Postpaid - North,1
+23,Churn - Postpaid - North,1
+24,Churn - Postpaid - North,1
+25,Churn - Postpaid - North,1
+26,Churn - Postpaid - North,1
+27,Churn - Postpaid - North,1
+28,Churn - Postpaid - North,1
+29,Churn - Postpaid - North,1
+30,Churn - Postpaid - North,1
+31,Churn - Postpaid - North,1
+32,Churn - Postpaid - North,1
+33,Churn - Postpaid - North,1
+34,Churn - Postpaid - North,1
+35,Churn - Postpaid - North,1
+36,Churn - Postpaid - North,1
+37,Churn - Postpaid - North,1
+38,Churn - Postpaid - North,1
+39,Churn - Postpaid - North,1
+40,Churn - Postpaid - North,1
+41,Churn - Postpaid - North,1
+42,Churn - Postpaid - North,1
+43,Churn - Postpaid - North,1
+44,Churn - Postpaid - North,1
+45,Churn - Postpaid - North,1
+46,Churn - Postpaid - North,1
+47,Churn - Postpaid - North,1
+48,Churn - Postpaid - North,1
+49,Churn - Postpaid - North,1
+50,Churn - Postpaid - North,1
+51,Churn - Postpaid - North,1
+52,Churn - Postpaid - North,1
+1,Prepaid to Postpaid - North,1
+2,Prepaid to Postpaid - North,1
+3,Prepaid to Postpaid - North,1
+4,Prepaid to Postpaid - North,1
+5,Prepaid to Postpaid - North,1
+6,Prepaid to Postpaid - North,1
+7,Prepaid to Postpaid - North,1
+8,Prepaid to Postpaid - North,1
+9,Prepaid to Postpaid - North,1
+10,Prepaid to Postpaid - North,1
+11,Prepaid to Postpaid - North,1
+12,Prepaid to Postpaid - North,1
+13,Prepaid to Postpaid - North,1
+14,Prepaid to Postpaid - North,1
+15,Prepaid to Postpaid - North,1
+16,Prepaid to Postpaid - North,1
+17,Prepaid to Postpaid - North,1
+18,Prepaid to Postpaid - North,1
+19,Prepaid to Postpaid - North,1
+20,Prepaid to Postpaid - North,1
+21,Prepaid to Postpaid - North,1
+22,Prepaid to Postpaid - North,1
+23,Prepaid to Postpaid - North,1
+24,Prepaid to Postpaid - North,1
+25,Prepaid to Postpaid - North,1
+26,Prepaid to Postpaid - North,1
+27,Prepaid to Postpaid - North,1
+28,Prepaid to Postpaid - North,1
+29,Prepaid to Postpaid - North,1
+30,Prepaid to Postpaid - North,1
+31,Prepaid to Postpaid - North,1
+32,Prepaid to Postpaid - North,1
+33,Prepaid to Postpaid - North,1
+34,Prepaid to Postpaid - North,1
+35,Prepaid to Postpaid - North,1
+36,Prepaid to Postpaid - North,1
+37,Prepaid to Postpaid - North,1
+38,Prepaid to Postpaid - North,1
+39,Prepaid to Postpaid - North,1
+40,Prepaid to Postpaid - North,1
+41,Prepaid to Postpaid - North,1
+42,Prepaid to Postpaid - North,1
+43,Prepaid to Postpaid - North,1
+44,Prepaid to Postpaid - North,1
+45,Prepaid to Postpaid - North,1
+46,Prepaid to Postpaid - North,1
+47,Prepaid to Postpaid - North,1
+48,Prepaid to Postpaid - North,1
+49,Prepaid to Postpaid - North,1
+50,Prepaid to Postpaid - North,1
+51,Prepaid to Postpaid - North,1
+52,Prepaid to Postpaid - North,1
+1,Prepaid to Postpaid - South,1
+2,Prepaid to Postpaid - South,1
+3,Prepaid to Postpaid - South,1
+4,Prepaid to Postpaid - South,1
+5,Prepaid to Postpaid - South,1
+6,Prepaid to Postpaid - South,1
+7,Prepaid to Postpaid - South,1
+8,Prepaid to Postpaid - South,1
+9,Prepaid to Postpaid - South,1
+10,Prepaid to Postpaid - South,1
+11,Prepaid to Postpaid - South,1
+12,Prepaid to Postpaid - South,1
+13,Prepaid to Postpaid - South,1
+14,Prepaid to Postpaid - South,1
+15,Prepaid to Postpaid - South,1
+16,Prepaid to Postpaid - South,1
+17,Prepaid to Postpaid - South,1
+18,Prepaid to Postpaid - South,1
+19,Prepaid to Postpaid - South,1
+20,Prepaid to Postpaid - South,1
+21,Prepaid to Postpaid - South,1
+22,Prepaid to Postpaid - South,1
+23,Prepaid to Postpaid - South,1
+24,Prepaid to Postpaid - South,1
+25,Prepaid to Postpaid - South,1
+26,Prepaid to Postpaid - South,1
+27,Prepaid to Postpaid - South,1
+28,Prepaid to Postpaid - South,1
+29,Prepaid to Postpaid - South,1
+30,Prepaid to Postpaid - South,1
+31,Prepaid to Postpaid - South,1
+32,Prepaid to Postpaid - South,1
+33,Prepaid to Postpaid - South,1
+34,Prepaid to Postpaid - South,1
+35,Prepaid to Postpaid - South,1
+36,Prepaid to Postpaid - South,1
+37,Prepaid to Postpaid - South,1
+38,Prepaid to Postpaid - South,1
+39,Prepaid to Postpaid - South,1
+40,Prepaid to Postpaid - South,1
+41,Prepaid to Postpaid - South,1
+42,Prepaid to Postpaid - South,1
+43,Prepaid to Postpaid - South,1
+44,Prepaid to Postpaid - South,1
+45,Prepaid to Postpaid - South,1
+46,Prepaid to Postpaid - South,1
+47,Prepaid to Postpaid - South,1
+48,Prepaid to Postpaid - South,1
+49,Prepaid to Postpaid - South,1
+50,Prepaid to Postpaid - South,1
+51,Prepaid to Postpaid - South,1
+52,Prepaid to Postpaid - South,1
+1,Acquisition - Prepaid - South,1
+2,Acquisition - Prepaid - South,1
+3,Acquisition - Prepaid - South,1
+4,Acquisition - Prepaid - South,1
+5,Acquisition - Prepaid - South,1
+6,Acquisition - Prepaid - South,1
+7,Acquisition - Prepaid - South,1
+8,Acquisition - Prepaid - South,1
+9,Acquisition - Prepaid - South,1
+10,Acquisition - Prepaid - South,1
+11,Acquisition - Prepaid - South,1
+12,Acquisition - Prepaid - South,1
+13,Acquisition - Prepaid - South,1
+14,Acquisition - Prepaid - South,1
+15,Acquisition - Prepaid - South,1
+16,Acquisition - Prepaid - South,1
+17,Acquisition - Prepaid - South,1
+18,Acquisition - Prepaid - South,1
+19,Acquisition - Prepaid - South,1
+20,Acquisition - Prepaid - South,1
+21,Acquisition - Prepaid - South,1
+22,Acquisition - Prepaid - South,1
+23,Acquisition - Prepaid - South,1
+24,Acquisition - Prepaid - South,1
+25,Acquisition - Prepaid - South,1
+26,Acquisition - Prepaid - South,1
+27,Acquisition - Prepaid - South,1
+28,Acquisition - Prepaid - South,1
+29,Acquisition - Prepaid - South,1
+30,Acquisition - Prepaid - South,1
+31,Acquisition - Prepaid - South,1
+32,Acquisition - Prepaid - South,1
+33,Acquisition - Prepaid - South,1
+34,Acquisition - Prepaid - South,1
+35,Acquisition - Prepaid - South,1
+36,Acquisition - Prepaid - South,1
+37,Acquisition - Prepaid - South,1
+38,Acquisition - Prepaid - South,1
+39,Acquisition - Prepaid - South,1
+40,Acquisition - Prepaid - South,1
+41,Acquisition - Prepaid - South,1
+42,Acquisition - Prepaid - South,1
+43,Acquisition - Prepaid - South,1
+44,Acquisition - Prepaid - South,1
+45,Acquisition - Prepaid - South,1
+46,Acquisition - Prepaid - South,1
+47,Acquisition - Prepaid - South,1
+48,Acquisition - Prepaid - South,1
+49,Acquisition - Prepaid - South,1
+50,Acquisition - Prepaid - South,1
+51,Acquisition - Prepaid - South,1
+52,Acquisition - Prepaid - South,1

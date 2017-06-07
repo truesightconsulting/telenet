@@ -1,174 +1,175 @@
 dma1_name,chan1_name,chan2_name,sales1_name,cpp,a,b,curvegroup_name,all_name
-National,Televsion,South,BASE_Churn_Postpaid_South,1,93.72377655,5.22E-06,weekly,overall
-National,Televsion,South,BASE_Acquisition_Postpaid_South,1,108.790336,2.02E-05,weekly,overall
-National,Televsion,South,BASE_Acquisition_Prepaid,1,337.8742855,0.000100219,weekly,overall
-National,Televsion,South,BASE_Prepaid to Postpaid_South,1,122.7507615,1.94E-05,weekly,overall
-National,Televsion,North,BASE_Acquisition_Postpaid_North,1,52,0.000394289,weekly,overall
-National,Televsion,North,BASE_Churn_Postpaid_North,1,78.10731755,0.000103988,weekly,overall
-National,Televsion,North,BASE_Prepaid to Postpaid_North,1,97.15507643,2.01E-05,weekly,overall
-National,Televsion,North,BASE_Acquisition_Prepaid,1,360.5044537,0.0001037,weekly,overall
-National,Online Display,Connectivity_Banner,CON_Acquisition Bundles,1,45.65829846,0.000308194,weekly,overall
-National,Online Display,Connectivity_Banner,CON_Cross-Sell Mobile,1,86.38964296,3.13E-05,weekly,overall
-National,Online Display,Connectivity_Banner,CON_Up-Sell Whop to Whoppa,1,30.28401453,1.63E-05,weekly,overall
-National,Online Display,Connectivity_Banner,CON_Acquisition DTV - TV only,1,19.42815679,0.000314603,weekly,overall
-National,Online Display,Connectivity_Video,CON_Acquisition Internet Only,1,108.9860117,0.000797308,weekly,overall
-National,Online Display,Connectivity_Video,CON_Churn mobile,1,87.36779174,8.68E-05,weekly,overall
-National,Online Display,Connectivity_Video,CON_Churn 2P 3P 4P,1,137.0492604,7.00E-05,weekly,overall
-National,Online Display,Connectivity_Video,CON_Churn 1P (INT or DTV),1,82.03949166,8.74E-05,weekly,overall
-National,Online Display,Entertainment_Video,ENT_Acquisition Play Sports,1,483.2892875,3.17E-05,weekly,overall
-National,Online Display,Entertainment_Video,ENT_Acquisition Play,1,1958.117362,2.72E-05,weekly,overall
-National,Online Display,Entertainment_Video,ENT_Acquisition Play More,1,51.5605977,2.83E-05,weekly,overall
-National,Online Display,Entertainment_Video,ENT_Churn,1,1052.644959,1.79E-05,weekly,overall
-National,Online Display,Entertainment_Video,ENT_Up-sell Play to Play More,1,22.15394007,5.76E-05,weekly,overall
-National,Online Display,Entertainment_Banner,ENT_Up-sell Play to Play More,1,15.63714117,0.000389036,weekly,overall
-National,DoortoDoor,Connectivity,CON_Acquisition Bundles,1,105.8420366,0.000353649,weekly,overall
-National,DoortoDoor,Connectivity,ENT_Acquisition Play,1,363.8697789,2.31E-05,weekly,overall
-National,DoortoDoor,Connectivity,ENT_Acquisition Play Sports,1,67.23130488,2.65E-05,weekly,overall
-National,DoortoDoor,Connectivity,ENT_Acquisition Play More,1,36.98817205,2.81E-05,weekly,overall
-National,DoortoDoor,Connectivity,CON_Cross-Sell Mobile,1,245.6885178,0.00015786,weekly,overall
-National,DoortoDoor,Connectivity,CON_Acquisition Internet Only,1,45.51209285,0.000373114,weekly,overall
-National,DoortoDoor,Connectivity,CON_Up-Sell Whop to Whoppa,1,38.3233727,0.000347547,weekly,overall
-National,DoortoDoor,Connectivity,CON_Acquisition DTV - TV only,1,36.09911056,0.000282935,weekly,overall
-National,DoortoDoor,Connectivity,CON_Churn 1P (INT or DTV),1,22.21262679,0.000168154,weekly,overall
-National,DoortoDoor,Connectivity,ENT_Up-sell Play to Play More,1,33.26323456,0.000384157,weekly,overall
-National,Promotion,Entertainment,ENT_Acquisition Play,1,54259.51033,8.97E-08,weekly,overall
-National,Promotion,Connectivity_Bundle,CON_Acquisition Bundles,1,21274.94749,3.30E-08,weekly,overall
-National,Promotion,Connectivity_INT,CON_Acquisition Internet Only,1,1256.131128,1.84E-07,weekly,overall
-National,Promotion,Connectivity_Mobile,CON_Cross-Sell Mobile,1,64363.76809,4.30E-08,weekly,overall
-National,Dailies,Connectivity,CON_Acquisition Bundles,1,36.9658053,0.00012401,weekly,overall
-National,Dailies,Connectivity,CON_Cross-Sell Mobile,1,117.5367706,0.000114518,weekly,overall
-National,Dailies,Connectivity,CON_Up-Sell Whop to Whoppa,1,11.88821237,4.00E-05,weekly,overall
-National,Search,Connectivity_Unbranded,CON_Acquisition Bundles,1,144.7127219,0.001474862,weekly,overall
-National,Search,Connectivity_Unbranded,CON_Cross-Sell Mobile,1,62.0825156,0.004332442,weekly,overall
-National,Search,Connectivity_Unbranded,CON_Acquisition Internet Only,1,26.30623755,0.000558134,weekly,overall
-National,Search,Connectivity_Unbranded,CON_Up-Sell Whop to Whoppa,1,52.42366192,0.000206136,weekly,overall
-National,Search,Connectivity_Unbranded,CON_Churn mobile,1,8.083478047,0.002625739,weekly,overall
-National,Search,Connectivity_Unbranded,CON_Churn 2P 3P 4P,1,21.09498473,0.003116444,weekly,overall
-National,Search,Entertainment_Unbranded,ENT_Acquisition Play Sports,1,79.35122509,0.000200562,weekly,overall
-National,Search,Entertainment_Unbranded,ENT_Acquisition Play More,1,8.649310569,0.003207047,weekly,overall
-National,Search,Entertainment_Unbranded,ENT_Churn,1,190.371548,0.000257541,weekly,overall
-National,Search,Entertainment_Unbranded,ENT_Acquisition Play,1,323.4760515,0.00039985,weekly,overall
-National,Search,Entertainment_Unbranded,ENT_Up-sell Play to Play More,1,16.41381698,0.003471962,weekly,overall
-National,Facebook,Connectivity,CON_Acquisition Bundles,1,31.60959977,0.000136937,weekly,overall
-National,Facebook,Connectivity,CON_Cross-Sell Mobile,1,46.51573364,0.001041532,weekly,overall
-National,Facebook,Connectivity,CON_Acquisition Internet Only,1,19.38651846,9.17E-05,weekly,overall
-National,Facebook,Connectivity,CON_Up-Sell Whop to Whoppa,1,42.15256947,5.06E-05,weekly,overall
-National,Facebook,Connectivity,CON_Acquisition DTV - TV only,1,1.600222537,0.001097887,weekly,overall
-National,Facebook,Connectivity,CON_Churn mobile,1,7.06832951,0.000608473,weekly,overall
-National,Facebook,Entertainment,ENT_Acquisition Play Sports,1,126.1255637,2.53E-05,weekly,overall
-National,Facebook,Entertainment,ENT_Acquisition Play More,1,16.08934586,0.001172019,weekly,overall
-National,Facebook,Entertainment,ENT_Churn,1,549.2051402,1.88E-05,weekly,overall
-National,Facebook,Entertainment,ENT_Acquisition Play,1,40.41633151,0.000277045,weekly,overall
-National,Television,Connectivity,CON_Acquisition Bundles,1,292.4096428,1.12E-05,weekly,overall
-National,Television,Connectivity,CON_Cross-Sell Mobile,1,178.9843133,2.89E-05,weekly,overall
-National,Television,Connectivity,CON_Acquisition Internet Only,1,68.78181655,1.97E-05,weekly,overall
-National,Television,Connectivity,CON_Up-Sell Whop to Whoppa,1,22.97588179,3.99E-05,weekly,overall
-National,Television,Connectivity,CON_Acquisition DTV - TV only,1,86.74166436,4.51E-05,weekly,overall
-National,Television,Connectivity,CON_Churn mobile,1,31.24508665,2.46E-05,weekly,overall
-National,Television,Connectivity,CON_Churn 2P 3P 4P,1,41.29243026,2.71E-05,weekly,overall
-National,Television,Connectivity,CON_Churn 1P (INT or DTV),1,18.41734054,2.62E-05,weekly,overall
-National,Television,Entertainment,ENT_Churn,1,153.1329688,2.49E-05,weekly,overall
-National,Television,Entertainment,ENT_Acquisition Play,1,832.1135978,5.01E-06,weekly,overall
-National,Television,Entertainment,ENT_Acquisition Play Sports,1,127.6100613,1.39E-05,weekly,overall
-National,Television,Entertainment,ENT_Acquisition Play More,1,174.4939627,4.09E-06,weekly,overall
-National,Television,Entertainment,ENT_Up-sell Play to Play More,1,31.16251734,9.83E-05,weekly,overall
-National,Direct Marketing,Connectivity_Acquisition,CON_Acquisition Bundles,1,69.4633487,0.000551558,weekly,overall
-National,Direct Marketing,Connectivity_Acquisition,CON_Acquisition DTV - TV only,1,78.5257265,0.000837575,weekly,overall
-National,Direct Marketing,Connectivity_Retention,CON_Churn mobile,1,29.43823583,4.71E-05,weekly,overall
-National,Direct Marketing,Connectivity_Retention,CON_Churn 2P 3P 4P,1,153.2364315,7.43E-05,weekly,overall
-National,Direct Marketing,Connectivity_Retention,CON_Churn 1P (INT or DTV),1,317.9730059,8.39E-05,weekly,overall
-National,Direct Marketing,Connectivity_Cross Sell,CON_Cross-Sell Mobile,1,1067.008224,1.69E-05,weekly,overall
-National,Direct Marketing,Connectivity_Upsell,CON_Up-Sell Whop to Whoppa,1,129.6292828,8.32E-06,weekly,overall
-National,Direct Marketing,Entertainment_Acquisition,ENT_Acquisition Play,1,298.6311871,3.83E-05,weekly,overall
-National,Direct Marketing,Entertainment_Acquisition,ENT_Acquisition Play More,1,30.21506008,7.17E-05,weekly,overall
-National,Direct Marketing,Entertainment_Retention,ENT_Churn,1,124.270422,6.71E-06,weekly,overall
-National,Direct Marketing,Entertainment_Upsell,ENT_Up-sell Play to Play More,1,555.6439403,0.000314533,weekly,overall
-National,Radio,Connectivity,CON_Acquisition Bundles,1,86.17581174,8.56E-05,weekly,overall
-National,Radio,Connectivity,CON_Cross-Sell Mobile,1,113.1739583,2.30E-05,weekly,overall
-National,Radio,Connectivity,CON_Acquisition Internet Only,1,17.1135904,5.29E-05,weekly,overall
-National,Radio,Connectivity,CON_Up-Sell Whop to Whoppa,1,12.00305971,0.000111131,weekly,overall
-National,Radio,Connectivity,CON_Acquisition DTV - TV only,1,4.160789779,0.00021243,weekly,overall
-National,Radio,South,BASE_Acquisition_Prepaid,1,115.4605,4.60E-05,weekly,overall
-National,Radio,South,BASE_Acquisition_Postpaid_South,1,75.98725719,2.32E-05,weekly,overall
-National,Radio,South,BASE_Prepaid to Postpaid_South,1,92.33082915,2.34E-05,weekly,overall
-National,Radio,Entertainment,ENT_Acquisition Play Sports,1,105.9637551,4.19E-05,weekly,overall
-National,Radio,Entertainment,ENT_Up-sell Play to Play More,1,6.20413946,0.000563102,weekly,overall
-National,Radio,Entertainment,ENT_Acquisition Play More,1,36.23347089,2.58E-05,weekly,overall
-National,Radio,Entertainment,ENT_Acquisition Play,1,269.8359289,2.17E-05,weekly,overall
-National,Radio,North,BASE_Acquisition_Postpaid_North,1,37.39336605,4.53E-05,weekly,overall
-National,Radio,North,BASE_Acquisition_Prepaid,1,144.2059068,4.66E-05,weekly,overall
-National,Radio,North,BASE_Prepaid to Postpaid_North,1,50.05996043,4.74E-05,weekly,overall
-National,Print,South,BASE_Acquisition_Postpaid_South,1,46.30869695,7.89E-05,weekly,overall
-National,Print,South,BASE_Acquisition_Prepaid,1,191.4583887,0.000133136,weekly,overall
-National,Print,South,BASE_Churn_Postpaid_South,1,116.3329147,0.000156947,weekly,overall
-National,Print,North,BASE_Acquisition_Postpaid_North,1,26.64182886,0.000141399,weekly,overall
-National,Print,North,BASE_Acquisition_Prepaid,1,145.5006502,0.000133778,weekly,overall
-National,Promotions,National,BASE_Acquisition_Postpaid_North,1,710.6647374,2.12E-07,weekly,overall
-National,Promotions,National,BASE_Acquisition_Postpaid_South,1,1135.995598,2.12E-07,weekly,overall
-National,Promotions,National,BASE_Churn_Postpaid_South,1,567.4039937,2.12E-07,weekly,overall
-National,Promotions,National,BASE_Churn_Postpaid_North,1,815.5077304,2.12E-07,weekly,overall
-National,Promotions,National,BASE_Prepaid to Postpaid_South,1,1065.311433,2.12E-07,weekly,overall
-National,Outdoor,Connectivity,CON_Acquisition Bundles,1,177.9232946,7.32E-05,weekly,overall
-National,Outdoor,Connectivity,CON_Cross-Sell Mobile,1,160.2215133,3.52E-05,weekly,overall
-National,Outdoor,Connectivity,CON_Acquisition Internet Only,1,70.75969504,6.17E-05,weekly,overall
-National,Outdoor,Connectivity,CON_Up-Sell Whop to Whoppa,1,17.05133278,5.13E-05,weekly,overall
-National,Outdoor,Connectivity,CON_Acquisition DTV - TV only,1,2.276155895,0.000181815,weekly,overall
-National,Outdoor,South,BASE_Acquisition_Postpaid_South,1,31.33668684,1.66E-05,weekly,overall
-National,Outdoor,South,BASE_Prepaid to Postpaid_South,1,1.000171942,0.000297836,weekly,overall
-National,Outdoor,South,BASE_Churn_Postpaid_South,1,54.36040632,6.04E-05,weekly,overall
-National,Outdoor,North,BASE_Churn_Postpaid_North,1,33.64219151,9.64E-05,weekly,overall
-National,Outdoor,North,BASE_Acquisition_Postpaid_North,1,2.000001204,0.000620926,weekly,overall
-National,Unbranded Search,South,BASE_Acquisition_Postpaid_South,1,117.549104,0.00025314,weekly,overall
-National,Unbranded Search,South,BASE_Churn_Postpaid_South,1,24.96656779,0.001184064,weekly,overall
-National,Unbranded Search,South,BASE_Prepaid to Postpaid_South,1,221.6289379,0.000252851,weekly,overall
-National,Unbranded Search,North,BASE_Acquisition_Postpaid_North,1,34.08692833,0.00098307,weekly,overall
-National,Unbranded Search,North,BASE_Churn_Postpaid_North,1,43.80765811,0.000495077,weekly,overall
-National,Unbranded Search,North,BASE_Prepaid to Postpaid_North,1,27.66069874,0.000819879,weekly,overall
-National,SMS,South,BASE_Prepaid to Postpaid_South,1,40.1849192,0.000245155,weekly,overall
-National,SMS,North,BASE_Churn_Postpaid_North,1,194.3742143,0.000116198,weekly,overall
-National,SMS,North,BASE_Prepaid to Postpaid_North,1,72.95557345,0.000322701,weekly,overall
-National,Outbound Calls,South,BASE_Prepaid to Postpaid_South,1,181.2971978,4.65E-05,weekly,overall
-National,Outbound Calls,Connectivity_Acquisition,CON_Acquisition Bundles,1,84.14244204,4.92E-05,weekly,overall
-National,Outbound Calls,Connectivity_Acquisition,CON_Acquisition DTV - TV only,1,19.14851318,0.000599046,weekly,overall
-National,Outbound Calls,Connectivity_Acquisition,CON_Acquisition Internet Only,1,23.0868704,0.00045395,weekly,overall
-National,Outbound Calls,Connectivity_Retention,CON_Churn mobile,1,12.84914964,3.91E-05,weekly,overall
-National,Outbound Calls,Connectivity_Retention,CON_Churn 2P 3P 4P,1,49.10861915,8.35E-05,weekly,overall
-National,Outbound Calls,Connectivity_Retention,CON_Churn 1P (INT or DTV),1,45.96686799,7.36E-05,weekly,overall
-National,Outbound Calls,Connectivity_Cross Sell,CON_Cross-Sell Mobile,1,387.9506926,3.50E-05,weekly,overall
-National,Outbound Calls,Connectivity_Upsell,CON_Up-Sell Whop to Whoppa,1,214.1987382,2.38E-05,weekly,overall
-National,Outbound Calls,Entertainment_Acquisition,ENT_Acquisition Play Sports,1,152.4149611,0.001203334,weekly,overall
-National,Outbound Calls,Entertainment_Acquisition,ENT_Acquisition Play,1,244.5511095,0.000108389,weekly,overall
-National,Outbound Calls,Entertainment_Retention,ENT_Churn,1,205.6595079,2.18E-05,weekly,overall
-National,Outbound Calls,Entertainment_Upsell,ENT_Up-sell Play to Play More,1,157.3819263,3.45E-05,weekly,overall
-National,Outbound Calls,North,BASE_Prepaid to Postpaid_North,1,58.36954629,0.00113203,weekly,overall
-National,Email,South,BASE_Prepaid to Postpaid_South,1,76.53041637,0.011141518,weekly,overall
-National,Email,Connectivity_Acquisition,CON_Acquisition Bundles,1,9.255654083,8.09E-05,weekly,overall
-National,Email,Connectivity_Acquisition,CON_Acquisition DTV - TV only,1,17.16882712,0.001606969,weekly,overall
-National,Email,Connectivity_Acquisition,CON_Churn mobile,1,9.006346826,0.000427248,weekly,overall
-National,Email,Connectivity_Acquisition,CON_Acquisition Internet Only,1,41.84449661,6.17E-05,weekly,overall
-National,Email,Connectivity_Cross Sell,CON_Cross-Sell Mobile,1,159.292264,0.000319635,weekly,overall
-National,Email,Connectivity_Upsell,CON_Up-Sell Whop to Whoppa,1,60.88018202,6.63E-05,weekly,overall
-National,Email,Entertainment_Acquisition,ENT_Acquisition Play,1,222.828335,0.001008412,weekly,overall
-National,Email,Entertainment_Acquisition,ENT_Acquisition Play Sports,1,569.9042716,0.000103063,weekly,overall
-National,Email,Entertainment_Acquisition,ENT_Acquisition Play More,1,102.8631712,0.00021705,weekly,overall
-National,Email,North,BASE_Prepaid to Postpaid_North,1,31.57083955,0.017447309,weekly,overall
-National,Base,CON_Acquisition Bundles,CON_Acquisition Bundles,1,4110000,10,weekly,overall
-National,Base,CON_Cross-Sell Mobile,CON_Cross-Sell Mobile,1,4110000,10,weekly,overall
-National,Base,CON_Acquisition Internet Only,CON_Acquisition Internet Only,1,4110000,10,weekly,overall
-National,Base,CON_Up-Sell Whop to Whoppa,CON_Up-Sell Whop to Whoppa,1,4110000,10,weekly,overall
-National,Base,CON_Acquisition DTV - TV only,CON_Acquisition DTV - TV only,1,4110000,10,weekly,overall
-National,Base,CON_Churn mobile,CON_Churn mobile,1,4110000,10,weekly,overall
-National,Base,CON_Churn 2P 3P 4P,CON_Churn 2P 3P 4P,1,4110000,10,weekly,overall
-National,Base,CON_Churn 1P (INT or DTV),CON_Churn 1P (INT or DTV),1,4110000,10,weekly,overall
-National,Base,ENT_Churn,ENT_Churn,1,4110000,10,weekly,overall
-National,Base,ENT_Acquisition Play Sports,ENT_Acquisition Play Sports,1,4110000,10,weekly,overall
-National,Base,ENT_Acquisition Play,ENT_Acquisition Play,1,4110000,10,weekly,overall
-National,Base,ENT_Acquisition Play More,ENT_Acquisition Play More,1,4110000,10,weekly,overall
-National,Base,ENT_Up-sell Play to Play More,ENT_Up-sell Play to Play More,1,4110000,10,weekly,overall
-National,Base,BASE_Acquisition_Postpaid_North,BASE_Acquisition_Postpaid_North,1,4110000,10,weekly,overall
-National,Base,BASE_Acquisition_Postpaid_South,BASE_Acquisition_Postpaid_South,1,4110000,10,weekly,overall
-National,Base,BASE_Acquisition_Prepaid,BASE_Acquisition_Prepaid,1,4110000,10,weekly,overall
-National,Base,BASE_Churn_Postpaid_South,BASE_Churn_Postpaid_South,1,4110000,10,weekly,overall
-National,Base,BASE_Churn_Postpaid_North,BASE_Churn_Postpaid_North,1,4110000,10,weekly,overall
-National,Base,BASE_Prepaid to Postpaid_North,BASE_Prepaid to Postpaid_North,1,4110000,10,weekly,overall
-National,Base,BASE_Prepaid to Postpaid_South,BASE_Prepaid to Postpaid_South,1,4110000,10,weekly,overall
+National,Television,Connectivity,Acquisition Bundles,1,293.3228572,1.11E-05,weekly,overall
+National,Television,Connectivity,Acquisition Internet Only,1,68.53015282,2.00E-05,weekly,overall
+National,Television,Connectivity,Up-Sell Whop to Whoppa,1,22.95533556,4.07E-05,weekly,overall
+National,Television,Connectivity,Acquisition DTV - TV only,1,86.63836778,4.70E-05,weekly,overall
+National,Television,Connectivity,Churn mobile,1,31.26879931,2.45E-05,weekly,overall
+National,Television,Connectivity,Churn 2P 3P 4P,1,41.11154036,2.79E-05,weekly,overall
+National,Television,Connectivity,Churn 1P (INT or DTV),1,18.4524719,2.59E-05,weekly,overall
+National,Television,Connectivity,Cross-Sell Mobile,1,178.7008135,2.93E-05,weekly,overall
+National,Television,South,Churn - Postpaid - South,1,93.54925189,5.23E-06,weekly,overall
+National,Television,South,Prepaid to Postpaid - South,1,122.8061927,1.94E-05,weekly,overall
+National,Television,South,Acquisition - Postpaid - South,1,109.099008,2.01E-05,weekly,overall
+National,Television,South,Acquisition - Prepaid - South,1,337.9259247,9.93E-05,weekly,overall
+National,Television,Entertainment,Acquisition Play More,1,174.9145111,4.07E-06,weekly,overall
+National,Television,Entertainment,Churn entertainment,1,152.9369915,2.50E-05,weekly,overall
+National,Television,Entertainment,Acquisition Play,1,830.823181,5.02E-06,weekly,overall
+National,Television,Entertainment,Up-sell Play to Play More,1,31.16203019,0.000100208,weekly,overall
+National,Television,Entertainment,Acquisition Play Sports,1,127.7195953,1.39E-05,weekly,overall
+National,Television,North,Prepaid to Postpaid - North,1,97.2900188,2.01E-05,weekly,overall
+National,Television,North,Churn - Postpaid - North,1,78.13693372,0.000100149,weekly,overall
+National,Television,North,Acquisition - Prepaid - North,1,360.3670526,0.000108711,weekly,overall
+National,Television,North,Acquisition - Postpaid - North,1,52,0.000414306,weekly,overall
+National,Dailies,Connectivity,Acquisition Bundles,1,36.9649597,0.000130605,weekly,overall
+National,Dailies,Connectivity,Cross-Sell Mobile,1,117.5362399,0.000115007,weekly,overall
+National,Dailies,Connectivity,Up-Sell Whop to Whoppa,1,11.89573808,3.98E-05,weekly,overall
+National,Search,Connectivity_Unbranded,Acquisition Bundles,1,144.8296087,0.001467034,weekly,overall
+National,Search,Connectivity_Unbranded,Cross-Sell Mobile,1,62.07924093,0.004594692,weekly,overall
+National,Search,Connectivity_Unbranded,Acquisition Internet Only,1,26.50062645,0.000550479,weekly,overall
+National,Search,Connectivity_Unbranded,Up-Sell Whop to Whoppa,1,52.21750625,0.000207153,weekly,overall
+National,Search,Connectivity_Unbranded,Churn mobile,1,8.083451647,0.002626102,weekly,overall
+National,Search,Connectivity_Unbranded,Churn 2P 3P 4P,1,21.09102327,0.003178047,weekly,overall
+National,Search,Entertainment_Unbranded,Acquisition Play Sports,1,79.80004316,0.000199245,weekly,overall
+National,Search,Entertainment_Unbranded,Acquisition Play More,1,8.649356558,0.003206601,weekly,overall
+National,Search,Entertainment_Unbranded,Churn entertainment,1,191.8106061,0.000255182,weekly,overall
+National,Search,Entertainment_Unbranded,Acquisition Play,1,324.812403,0.000397593,weekly,overall
+National,Search,Entertainment_Unbranded,Up-sell Play to Play More,1,16.41634698,0.003452885,weekly,overall
+National,Facebook,Connectivity,Acquisition Bundles,1,31.71883459,0.000136087,weekly,overall
+National,Facebook,Connectivity,Cross-Sell Mobile,1,46.51505116,0.001049015,weekly,overall
+National,Facebook,Connectivity,Acquisition Internet Only,1,19.26009301,9.26E-05,weekly,overall
+National,Facebook,Connectivity,Up-Sell Whop to Whoppa,1,42.25956781,5.04E-05,weekly,overall
+National,Facebook,Connectivity,Acquisition DTV - TV only,1,1.600176883,0.001122203,weekly,overall
+National,Facebook,Connectivity,Churn mobile,1,7.076406203,0.000591696,weekly,overall
+National,Facebook,Entertainment,Acquisition Play Sports,1,127.1643139,2.50E-05,weekly,overall
+National,Facebook,Entertainment,Acquisition Play More,1,16.08968177,0.001156914,weekly,overall
+National,Facebook,Entertainment,Churn entertainment,1,548.4818432,1.89E-05,weekly,overall
+National,Facebook,Entertainment,Acquisition Play,1,40.48987651,0.000275402,weekly,overall
+National,Email,South,Prepaid to Postpaid - South,1,76.511864,0.011164774,weekly,overall
+National,Email,Connectivity_Acquisition,Acquisition Bundles,1,9.261440283,8.08E-05,weekly,overall
+National,Email,Connectivity_Acquisition,Acquisition DTV - TV only,1,17.16741058,0.001647774,weekly,overall
+National,Email,Connectivity_Acquisition,Churn mobile,1,9.019557966,0.000425206,weekly,overall
+National,Email,Connectivity_Acquisition,Acquisition Internet Only,1,41.30746305,6.26E-05,weekly,overall
+National,Email,Entertainment_Acquisition,Acquisition Play,1,222.3337558,0.001019541,weekly,overall
+National,Email,Entertainment_Acquisition,Acquisition Play Sports,1,573.7481003,0.000102272,weekly,overall
+National,Email,Entertainment_Acquisition,Acquisition Play More,1,101.789659,0.000220141,weekly,overall
+National,Email,Connectivity_Cross Sell,Cross-Sell Mobile,1,159.5308586,0.000317839,weekly,overall
+National,Email,Connectivity_Upsell,Up-Sell Whop to Whoppa,1,61.03926722,6.60E-05,weekly,overall
+National,Email,North,Prepaid to Postpaid - North,1,31.58774439,0.017322749,weekly,overall
+National,Direct Marketing,Connectivity_Acquisition,Acquisition Bundles,1,69.46329712,0.000562721,weekly,overall
+National,Direct Marketing,Connectivity_Acquisition,Acquisition DTV - TV only,1,78.5257272,0.000791324,weekly,overall
+National,Direct Marketing,Entertainment_Acquisition,Acquisition Play,1,300.0228234,3.71E-05,weekly,overall
+National,Direct Marketing,Entertainment_Acquisition,Acquisition Play More,1,30.20589668,7.30E-05,weekly,overall
+National,Direct Marketing,Connectivity_Retention,Churn mobile,1,29.52861153,4.57E-05,weekly,overall
+National,Direct Marketing,Connectivity_Retention,Churn 2P 3P 4P,1,153.2689027,7.35E-05,weekly,overall
+National,Direct Marketing,Connectivity_Retention,Churn 1P (INT or DTV),1,317.9707593,8.40E-05,weekly,overall
+National,Direct Marketing,Entertainment_Retention,Churn entertainment,1,123.3846956,6.76E-06,weekly,overall
+National,Direct Marketing,Connectivity_Cross Sell,Cross-Sell Mobile,1,1064.507564,1.74E-05,weekly,overall
+National,Direct Marketing,Connectivity_Upsell,Up-Sell Whop to Whoppa,1,129.2740257,8.39E-06,weekly,overall
+National,Direct Marketing,Entertainment_Upsell,Up-sell Play to Play More,1,555.8778484,0.00031435,weekly,overall
+National,SMS,South,Prepaid to Postpaid - South,1,39.79433969,0.000247731,weekly,overall
+National,SMS,North,Churn - Postpaid - North,1,193.4852435,0.000116745,weekly,overall
+National,SMS,North,Prepaid to Postpaid - North,1,73.4917301,0.000320186,weekly,overall
+National,Radio,Connectivity,Acquisition Bundles,1,86.24906293,8.40E-05,weekly,overall
+National,Radio,Connectivity,Acquisition DTV - TV only,1,4.160801105,0.000207338,weekly,overall
+National,Radio,Connectivity,Acquisition Internet Only,1,17.07270438,5.37E-05,weekly,overall
+National,Radio,Connectivity,Cross-Sell Mobile,1,113.0282479,2.30E-05,weekly,overall
+National,Radio,Connectivity,Up-Sell Whop to Whoppa,1,12.00399106,0.000110506,weekly,overall
+National,Radio,South,Acquisition - Prepaid - South,1,116.3393727,4.51E-05,weekly,overall
+National,Radio,South,Acquisition - Postpaid - South,1,75.87778986,2.32E-05,weekly,overall
+National,Radio,South,Prepaid to Postpaid - South,1,93.2193174,2.31E-05,weekly,overall
+National,Radio,Entertainment,Acquisition Play Sports,1,105.3487321,4.24E-05,weekly,overall
+National,Radio,Entertainment,Acquisition Play,1,271.7264338,2.15E-05,weekly,overall
+National,Radio,Entertainment,Up-sell Play to Play More,1,6.204139456,0.000568202,weekly,overall
+National,Radio,Entertainment,Acquisition Play More,1,36.17084024,2.59E-05,weekly,overall
+National,Radio,North,Prepaid to Postpaid - North,1,50.06915639,4.74E-05,weekly,overall
+National,Radio,North,Acquisition - Prepaid - North,1,144.3725277,4.64E-05,weekly,overall
+National,Radio,North,Acquisition - Postpaid - North,1,37.42471063,4.51E-05,weekly,overall
+National,Print,South,Acquisition - Postpaid - South,1,46.12252465,7.96E-05,weekly,overall
+National,Print,South,Acquisition - Prepaid - South,1,191.515025,0.000132989,weekly,overall
+National,Print,South,Churn - Postpaid - South,1,116.5007128,0.000155846,weekly,overall
+National,Print,North,Acquisition - Postpaid - North,1,26.76261509,0.000139881,weekly,overall
+National,Print,North,Acquisition - Prepaid - North,1,145.090366,0.000134643,weekly,overall
+National,Promotion,Entertainment,Acquisition Play,1,53798.31763,9.04E-08,weekly,overall
+National,Promotion,National,Acquisition - Postpaid - North,1,707.3131107,2.13E-07,weekly,overall
+National,Promotion,National,Acquisition - Postpaid - South,1,1133.626626,2.12E-07,weekly,overall
+National,Promotion,National,Churn - Postpaid - South,1,566.0620711,2.12E-07,weekly,overall
+National,Promotion,National,Churn - Postpaid - North,1,818.4940068,2.11E-07,weekly,overall
+National,Promotion,National,Prepaid to Postpaid - South,1,1068.828652,2.11E-07,weekly,overall
+National,Promotion,Connectivity_Bundle,Acquisition Bundles,1,21087.45355,3.33E-08,weekly,overall
+National,Promotion,Connectivity_INT,Acquisition Internet Only,1,1264.882747,1.83E-07,weekly,overall
+National,Promotion,Connectivity_Mobile,Cross-Sell Mobile,1,65463.57412,4.23E-08,weekly,overall
+National,Outdoor,Connectivity,Acquisition Bundles,1,177.8929857,7.37E-05,weekly,overall
+National,Outdoor,Connectivity,Cross-Sell Mobile,1,159.7570597,3.56E-05,weekly,overall
+National,Outdoor,Connectivity,Acquisition Internet Only,1,70.80777771,6.09E-05,weekly,overall
+National,Outdoor,Connectivity,Up-Sell Whop to Whoppa,1,17.06999911,5.07E-05,weekly,overall
+National,Outdoor,Connectivity,Acquisition DTV - TV only,1,2.276154107,0.000188401,weekly,overall
+National,Outdoor,South,Acquisition - Postpaid - South,1,31.15601931,1.67E-05,weekly,overall
+National,Outdoor,South,Prepaid to Postpaid - South,1,1.000152091,0.000302051,weekly,overall
+National,Outdoor,South,Churn - Postpaid - South,1,54.44877607,6.02E-05,weekly,overall
+National,Outdoor,North,Churn - Postpaid - North,1,33.63274976,9.65E-05,weekly,overall
+National,Outdoor,North,Acquisition - Postpaid - North,1,2.000003304,0.00057717,weekly,overall
+National,Unbranded Search,South,Acquisition - Postpaid - South,1,117.1232787,0.000254307,weekly,overall
+National,Unbranded Search,South,Churn - Postpaid - South,1,24.92325236,0.001191275,weekly,overall
+National,Unbranded Search,South,Prepaid to Postpaid - South,1,220.5937107,0.000254356,weekly,overall
+National,Unbranded Search,North,Acquisition - Postpaid - North,1,33.6619221,0.001021674,weekly,overall
+National,Unbranded Search,North,Churn - Postpaid - North,1,43.672562,0.000497652,weekly,overall
+National,Unbranded Search,North,Prepaid to Postpaid - North,1,27.51424824,0.000830681,weekly,overall
+National,Online Display,Connectivity_Banner,Acquisition Bundles,1,45.65826434,0.000318166,weekly,overall
+National,Online Display,Connectivity_Banner,Cross-Sell Mobile,1,85.73418825,3.18E-05,weekly,overall
+National,Online Display,Connectivity_Banner,Up-Sell Whop to Whoppa,1,30.12964949,1.64E-05,weekly,overall
+National,Online Display,Connectivity_Banner,Acquisition DTV - TV only,1,19.42815354,0.000317121,weekly,overall
+National,Online Display,Connectivity_Video,Acquisition Internet Only,1,108.9860117,0.000792687,weekly,overall
+National,Online Display,Connectivity_Video,Churn mobile,1,87.43478719,8.62E-05,weekly,overall
+National,Online Display,Connectivity_Video,Churn 2P 3P 4P,1,136.7439546,7.09E-05,weekly,overall
+National,Online Display,Connectivity_Video,Churn 1P (INT or DTV),1,82.16074337,8.62E-05,weekly,overall
+National,Online Display,Entertainment_Video,Acquisition Play Sports,1,483.6684776,3.17E-05,weekly,overall
+National,Online Display,Entertainment_Video,Acquisition Play,1,1937.366169,2.76E-05,weekly,overall
+National,Online Display,Entertainment_Video,Acquisition Play More,1,51.48020362,2.84E-05,weekly,overall
+National,Online Display,Entertainment_Video,Churn entertainment,1,1058.782131,1.78E-05,weekly,overall
+National,Online Display,Entertainment_Video,Up-sell Play to Play More,1,22.20705567,5.74E-05,weekly,overall
+National,Online Display,Entertainment_Banner,Up-sell Play to Play More,1,15.63690753,0.000389933,weekly,overall
+National,Outbound Calls,South,Prepaid to Postpaid - South,1,183.1473819,4.59E-05,weekly,overall
+National,Outbound Calls,Connectivity_Acquisition,Acquisition Bundles,1,84.04918303,4.94E-05,weekly,overall
+National,Outbound Calls,Connectivity_Acquisition,Acquisition DTV - TV only,1,19.14851543,0.000586653,weekly,overall
+National,Outbound Calls,Connectivity_Acquisition,Acquisition Internet Only,1,23.08695223,0.000443654,weekly,overall
+National,Outbound Calls,Entertainment_Acquisition,Acquisition Play Sports,1,152.4149611,0.001228344,weekly,overall
+National,Outbound Calls,Entertainment_Acquisition,Acquisition Play,1,245.7139896,0.000106422,weekly,overall
+National,Outbound Calls,Connectivity_Retention,Churn mobile,1,12.82173656,3.94E-05,weekly,overall
+National,Outbound Calls,Connectivity_Retention,Churn 2P 3P 4P,1,49.14425247,8.23E-05,weekly,overall
+National,Outbound Calls,Connectivity_Retention,Churn 1P (INT or DTV),1,46.02407261,7.24E-05,weekly,overall
+National,Outbound Calls,Entertainment_Retention,Churn entertainment,1,204.4098255,2.19E-05,weekly,overall
+National,Outbound Calls,Connectivity_Cross Sell,Cross-Sell Mobile,1,391.3952983,3.43E-05,weekly,overall
+National,Outbound Calls,Connectivity_Upsell,Up-Sell Whop to Whoppa,1,212.6876528,2.40E-05,weekly,overall
+National,Outbound Calls,Entertainment_Upsell,Up-sell Play to Play More,1,157.0351996,3.46E-05,weekly,overall
+National,Outbound Calls,North,Prepaid to Postpaid - North,1,58.19407717,0.001136056,weekly,overall
+National,DoortoDoor,Connectivity,Acquisition Bundles,1,105.842043,0.00032317,weekly,overall
+National,DoortoDoor,Connectivity,Acquisition Play,1,363.0326183,2.32E-05,weekly,overall
+National,DoortoDoor,Connectivity,Acquisition Play Sports,1,67.17018577,2.65E-05,weekly,overall
+National,DoortoDoor,Connectivity,Acquisition Play More,1,36.89263307,2.83E-05,weekly,overall
+National,DoortoDoor,Connectivity,Cross-Sell Mobile,1,245.7105997,0.000153156,weekly,overall
+National,DoortoDoor,Connectivity,Acquisition Internet Only,1,45.51209276,0.000379958,weekly,overall
+National,DoortoDoor,Connectivity,Up-Sell Whop to Whoppa,1,38.3233731,0.000339855,weekly,overall
+National,DoortoDoor,Connectivity,Acquisition DTV - TV only,1,36.09910889,0.000284554,weekly,overall
+National,DoortoDoor,Connectivity,Churn 1P (INT or DTV),1,22.21496864,0.000159733,weekly,overall
+National,DoortoDoor,Connectivity,Up-sell Play to Play More,1,33.26323458,0.000381369,weekly,overall
+National,Base,Acquisition Bundles,Acquisition Bundles,1,4110000,10,weekly,overall
+National,Base,Cross-Sell Mobile,Cross-Sell Mobile,1,4110000,10,weekly,overall
+National,Base,Acquisition Internet Only,Acquisition Internet Only,1,4110000,10,weekly,overall
+National,Base,Up-Sell Whop to Whoppa,Up-Sell Whop to Whoppa,1,4110000,10,weekly,overall
+National,Base,Acquisition DTV - TV only,Acquisition DTV - TV only,1,4110000,10,weekly,overall
+National,Base,Churn mobile,Churn mobile,1,4110000,10,weekly,overall
+National,Base,Churn 2P 3P 4P,Churn 2P 3P 4P,1,4110000,10,weekly,overall
+National,Base,Churn 1P (INT or DTV),Churn 1P (INT or DTV),1,4110000,10,weekly,overall
+National,Base,Up-sell Play to Play More,Up-sell Play to Play More,1,4110000,10,weekly,overall
+National,Base,Acquisition Play,Acquisition Play,1,4110000,10,weekly,overall
+National,Base,Acquisition Play Sports,Acquisition Play Sports,1,4110000,10,weekly,overall
+National,Base,Acquisition Play More,Acquisition Play More,1,4110000,10,weekly,overall
+National,Base,Churn entertainment,Churn entertainment,1,4110000,10,weekly,overall
+National,Base,Acquisition - Postpaid - North,Acquisition - Postpaid - North,1,4110000,10,weekly,overall
+National,Base,Acquisition - Postpaid - South,Acquisition - Postpaid - South,1,4110000,10,weekly,overall
+National,Base,Acquisition - Prepaid - North,Acquisition - Prepaid - North,1,4110000,10,weekly,overall
+National,Base,Acquisition - Prepaid - South,Acquisition - Prepaid - South,1,4110000,10,weekly,overall
+National,Base,Churn - Postpaid - South,Churn - Postpaid - South,1,4110000,10,weekly,overall
+National,Base,Churn - Postpaid - North,Churn - Postpaid - North,1,4110000,10,weekly,overall
+National,Base,Prepaid to Postpaid - North,Prepaid to Postpaid - North,1,4110000,10,weekly,overall
+National,Base,Prepaid to Postpaid - South,Prepaid to Postpaid - South,1,4110000,10,weekly,overall
